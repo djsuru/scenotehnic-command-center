@@ -1,0 +1,1398 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "2a8c83be-bbe3-4e68-87e1-3c9c7a759f08",
+        "text": {
+          "ops": [
+            {
+              "insert": "SCENOTEHNIC - Landing content"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "44da4943-b86b-4274-8c77-ed373bed3198",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Evenimentul tău. Regizat tehnic.",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "hero"
+              },
+              "@scntitle": "Evenimentul tău. Regizat tehnic.",
+              "@scndesc": "Sunet. Lumini. Video. Scenă. Un singur partener pentru un eveniment care funcționează fără improvizații.",
+              "@scnmeta": "EVENT PRODUCTION / 2026",
+              "@scnicon": "sparkles",
+              "@scnorder": 1,
+              "@scncta": "Cere ofertă personalizată",
+              "@scnurl": "https://scenotehnic-xmhzxyoj.manus.space/internal/oferta-personalizata"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "381e8010-4bad-4bd3-bdf8-5e9cce63c460",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Sonorizare completă",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@scntitle": "Sonorizare completă",
+              "@scndesc": "Discursuri clare, muzică bine redată și acoperire potrivită spațiului.",
+              "@scnmeta": "01",
+              "@scnicon": "volume-2",
+              "@scnorder": 1
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b4bc2960-0290-4467-9c02-a9ced375d879",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Lumini & light show",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@scntitle": "Lumini & light show",
+              "@scndesc": "Atmosferă, vizibilitate și impact vizual pentru fiecare moment.",
+              "@scnmeta": "02",
+              "@scnicon": "sparkles",
+              "@scnorder": 2
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "06a0d11d-ebdc-4b0d-b2da-3a97eef2db2f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Ecrane LED & video",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@scntitle": "Ecrane LED & video",
+              "@scndesc": "Conținut vizibil pentru public, branding și experiențe memorabile.",
+              "@scnmeta": "03",
+              "@scnicon": "monitor-play",
+              "@scnorder": 3
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "203b67a0-85fb-403a-85e5-4e0ec7d4d7d0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scenă & structuri",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@scntitle": "Scenă & structuri",
+              "@scndesc": "O bază sigură pentru prezentări, artiști, decor și producție.",
+              "@scnmeta": "04",
+              "@scnicon": "layers-3",
+              "@scnorder": 4
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3eff75ae-35ee-4446-83a2-f05ff4463e26",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Efecte speciale",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@scntitle": "Efecte speciale",
+              "@scndesc": "Momente cu impact: fum greu, efecte de atmosferă și accente vizuale.",
+              "@scnmeta": "05",
+              "@scnicon": "wand-sparkles",
+              "@scnorder": 5
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "25fa9b38-fa6f-4cc9-b643-b25b9eef106f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "DJ & entertainment",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@scntitle": "DJ & entertainment",
+              "@scndesc": "Muzică și energie potrivite formatului, publicului și programului.",
+              "@scnmeta": "06",
+              "@scnicon": "disc-3",
+              "@scnorder": 6
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ddbee6ae-daa4-4f9d-a48b-3e85e94ab64c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Format compact",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "package"
+              },
+              "@scntitle": "Format compact",
+              "@scndesc": "Sunet + lumini de bază",
+              "@scnmeta": "FORMAT",
+              "@scnprice": "De la configurare",
+              "@scncta": "Cere ofertă personalizată",
+              "@scnorder": 1,
+              "@scnurl": "https://scenotehnic-xmhzxyoj.manus.space/internal/oferta-personalizata"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3a306d58-7100-4580-8510-87874bbf9ea4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Format corporate",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "package"
+              },
+              "@scntitle": "Format corporate",
+              "@scndesc": "Sunet + lumini + video + suport tehnic",
+              "@scnmeta": "CEL MAI CERUT",
+              "@scnprice": "De la configurare",
+              "@scncta": "Cere ofertă personalizată",
+              "@scnorder": 2,
+              "@scnurl": "https://scenotehnic-xmhzxyoj.manus.space/internal/oferta-personalizata"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9577746a-ea28-4cf2-9aa1-8e809a69ef97",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Format premium",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "package"
+              },
+              "@scntitle": "Format premium",
+              "@scndesc": "Scenă + sunet + lumini + LED + echipă",
+              "@scnmeta": "FORMAT",
+              "@scnprice": "De la configurare",
+              "@scncta": "Cere ofertă personalizată",
+              "@scnorder": 3,
+              "@scnurl": "https://scenotehnic-xmhzxyoj.manus.space/internal/oferta-personalizata"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b25a81c9-76c8-4da4-96cd-da76a3e94959",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Un singur furnizor",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "reason"
+              },
+              "@scntitle": "Un singur furnizor",
+              "@scndesc": "Sunet, lumini, video, scenă și echipă tehnică într-un singur plan.",
+              "@scnmeta": "01",
+              "@scnicon": "check",
+              "@scnorder": 1
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "128481b7-24ae-418b-b849-58420254fbe7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Consultanță înainte de eveniment",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "reason"
+              },
+              "@scntitle": "Consultanță înainte de eveniment",
+              "@scndesc": "Ne uităm la locație, program și public înainte să propunem soluția.",
+              "@scnmeta": "02",
+              "@scnicon": "check",
+              "@scnorder": 2
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dc9421a5-75f8-4509-a94b-5aa8b0db2896",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Prezență și backup",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "reason"
+              },
+              "@scntitle": "Prezență și backup",
+              "@scndesc": "Rămânem responsabili în teren și pregătim alternative pentru momentele importante.",
+              "@scnmeta": "03",
+              "@scnicon": "check",
+              "@scnorder": 3
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "142e3330-ccb9-4482-abf1-0cc622a3a22c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Experiență în producții diverse",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@scnsec": {
+                "type": "Select",
+                "optionId": "reason"
+              },
+              "@scntitle": "Experiență în producții diverse",
+              "@scndesc": "Corporate, private, concerte și producții complexe, cu aceeași rigoare.",
+              "@scnmeta": "04",
+              "@scnicon": "check",
+              "@scnorder": 4
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@scnsec": {
+            "id": "/attributes/@scnsec",
+            "fieldPath": "/attributes/@scnsec",
+            "rank": "z"
+          },
+          "/attributes/@scntitle": {
+            "id": "/attributes/@scntitle",
+            "fieldPath": "/attributes/@scntitle",
+            "rank": "zV"
+          },
+          "/attributes/@scndesc": {
+            "id": "/attributes/@scndesc",
+            "fieldPath": "/attributes/@scndesc",
+            "rank": "zk"
+          },
+          "/attributes/@scnmeta": {
+            "id": "/attributes/@scnmeta",
+            "fieldPath": "/attributes/@scnmeta",
+            "rank": "zs"
+          },
+          "/attributes/@scnicon": {
+            "id": "/attributes/@scnicon",
+            "fieldPath": "/attributes/@scnicon",
+            "rank": "zw"
+          },
+          "/attributes/@scnorder": {
+            "id": "/attributes/@scnorder",
+            "fieldPath": "/attributes/@scnorder",
+            "rank": "zy"
+          },
+          "/attributes/@scnprice": {
+            "id": "/attributes/@scnprice",
+            "fieldPath": "/attributes/@scnprice",
+            "rank": "zz"
+          },
+          "/attributes/@scncta": {
+            "id": "/attributes/@scncta",
+            "fieldPath": "/attributes/@scncta",
+            "rank": "zzV"
+          },
+          "/attributes/@scnurl": {
+            "id": "/attributes/@scnurl",
+            "fieldPath": "/attributes/@scnurl",
+            "rank": "zzk"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@scnsec": {
+            "id": "/attributes/@scnsec",
+            "fieldPath": "/attributes/@scnsec",
+            "rank": "z"
+          },
+          "/attributes/@scntitle": {
+            "id": "/attributes/@scntitle",
+            "fieldPath": "/attributes/@scntitle",
+            "rank": "zV"
+          },
+          "/attributes/@scndesc": {
+            "id": "/attributes/@scndesc",
+            "fieldPath": "/attributes/@scndesc",
+            "rank": "zk"
+          },
+          "/attributes/@scnmeta": {
+            "id": "/attributes/@scnmeta",
+            "fieldPath": "/attributes/@scnmeta",
+            "rank": "zs"
+          },
+          "/attributes/@scnicon": {
+            "id": "/attributes/@scnicon",
+            "fieldPath": "/attributes/@scnicon",
+            "rank": "zw"
+          },
+          "/attributes/@scnorder": {
+            "id": "/attributes/@scnorder",
+            "fieldPath": "/attributes/@scnorder",
+            "rank": "zy"
+          },
+          "/attributes/@scnprice": {
+            "id": "/attributes/@scnprice",
+            "fieldPath": "/attributes/@scnprice",
+            "rank": "zz"
+          },
+          "/attributes/@scncta": {
+            "id": "/attributes/@scncta",
+            "fieldPath": "/attributes/@scncta",
+            "rank": "zzV"
+          },
+          "/attributes/@scnurl": {
+            "id": "/attributes/@scnurl",
+            "fieldPath": "/attributes/@scnurl",
+            "rank": "zzk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@scnsec": {
+            "id": "/attributes/@scnsec",
+            "fieldPath": "/attributes/@scnsec",
+            "rank": "z"
+          },
+          "/attributes/@scntitle": {
+            "id": "/attributes/@scntitle",
+            "fieldPath": "/attributes/@scntitle",
+            "rank": "zV"
+          },
+          "/attributes/@scndesc": {
+            "id": "/attributes/@scndesc",
+            "fieldPath": "/attributes/@scndesc",
+            "rank": "zk"
+          },
+          "/attributes/@scnmeta": {
+            "id": "/attributes/@scnmeta",
+            "fieldPath": "/attributes/@scnmeta",
+            "rank": "zs"
+          },
+          "/attributes/@scnicon": {
+            "id": "/attributes/@scnicon",
+            "fieldPath": "/attributes/@scnicon",
+            "rank": "zw"
+          },
+          "/attributes/@scnorder": {
+            "id": "/attributes/@scnorder",
+            "fieldPath": "/attributes/@scnorder",
+            "rank": "zy"
+          },
+          "/attributes/@scnprice": {
+            "id": "/attributes/@scnprice",
+            "fieldPath": "/attributes/@scnprice",
+            "rank": "zz"
+          },
+          "/attributes/@scncta": {
+            "id": "/attributes/@scncta",
+            "fieldPath": "/attributes/@scncta",
+            "rank": "zzV"
+          },
+          "/attributes/@scnurl": {
+            "id": "/attributes/@scnurl",
+            "fieldPath": "/attributes/@scnurl",
+            "rank": "zzk"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@scnsec": {
+            "id": "/attributes/@scnsec",
+            "fieldPath": "/attributes/@scnsec",
+            "rank": "z"
+          },
+          "/attributes/@scntitle": {
+            "id": "/attributes/@scntitle",
+            "fieldPath": "/attributes/@scntitle",
+            "rank": "zV"
+          },
+          "/attributes/@scndesc": {
+            "id": "/attributes/@scndesc",
+            "fieldPath": "/attributes/@scndesc",
+            "rank": "zk"
+          },
+          "/attributes/@scnmeta": {
+            "id": "/attributes/@scnmeta",
+            "fieldPath": "/attributes/@scnmeta",
+            "rank": "zs"
+          },
+          "/attributes/@scnicon": {
+            "id": "/attributes/@scnicon",
+            "fieldPath": "/attributes/@scnicon",
+            "rank": "zw"
+          },
+          "/attributes/@scnorder": {
+            "id": "/attributes/@scnorder",
+            "fieldPath": "/attributes/@scnorder",
+            "rank": "zy"
+          },
+          "/attributes/@scnprice": {
+            "id": "/attributes/@scnprice",
+            "fieldPath": "/attributes/@scnprice",
+            "rank": "zz"
+          },
+          "/attributes/@scncta": {
+            "id": "/attributes/@scncta",
+            "fieldPath": "/attributes/@scncta",
+            "rank": "zzV"
+          },
+          "/attributes/@scnurl": {
+            "id": "/attributes/@scnurl",
+            "fieldPath": "/attributes/@scnurl",
+            "rank": "zzk"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@scnsec": {
+            "id": "/attributes/@scnsec",
+            "fieldPath": "/attributes/@scnsec",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@scntitle": {
+            "id": "/attributes/@scntitle",
+            "fieldPath": "/attributes/@scntitle",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@scndesc": {
+            "id": "/attributes/@scndesc",
+            "fieldPath": "/attributes/@scndesc",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@scnmeta": {
+            "id": "/attributes/@scnmeta",
+            "fieldPath": "/attributes/@scnmeta",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@scnicon": {
+            "id": "/attributes/@scnicon",
+            "fieldPath": "/attributes/@scnicon",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@scnorder": {
+            "id": "/attributes/@scnorder",
+            "fieldPath": "/attributes/@scnorder",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@scnprice": {
+            "id": "/attributes/@scnprice",
+            "fieldPath": "/attributes/@scnprice",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@scncta": {
+            "id": "/attributes/@scncta",
+            "fieldPath": "/attributes/@scncta",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@scnurl": {
+            "id": "/attributes/@scnurl",
+            "fieldPath": "/attributes/@scnurl",
+            "rank": "zzk",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@scnsec": {
+            "id": "/attributes/@scnsec",
+            "fieldPath": "/attributes/@scnsec",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@scntitle": {
+            "id": "/attributes/@scntitle",
+            "fieldPath": "/attributes/@scntitle",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@scndesc": {
+            "id": "/attributes/@scndesc",
+            "fieldPath": "/attributes/@scndesc",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@scnmeta": {
+            "id": "/attributes/@scnmeta",
+            "fieldPath": "/attributes/@scnmeta",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@scnicon": {
+            "id": "/attributes/@scnicon",
+            "fieldPath": "/attributes/@scnicon",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@scnorder": {
+            "id": "/attributes/@scnorder",
+            "fieldPath": "/attributes/@scnorder",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@scnprice": {
+            "id": "/attributes/@scnprice",
+            "fieldPath": "/attributes/@scnprice",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@scncta": {
+            "id": "/attributes/@scncta",
+            "fieldPath": "/attributes/@scncta",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@scnurl": {
+            "id": "/attributes/@scnurl",
+            "fieldPath": "/attributes/@scnurl",
+            "rank": "zzk",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@scnmeta": {
+        "type": "string",
+        "displayName": "Meta"
+      },
+      "@scnprice": {
+        "type": "string",
+        "displayName": "Preț"
+      },
+      "@scndesc": {
+        "type": "string",
+        "displayName": "Descriere"
+      },
+      "@scnorder": {
+        "type": "number",
+        "displayName": "Ordine",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@scnurl": {
+        "type": "string",
+        "displayName": "URL"
+      },
+      "@scncta": {
+        "type": "string",
+        "displayName": "CTA"
+      },
+      "@scnsec": {
+        "type": "Select",
+        "displayName": "Secțiune",
+        "options": {
+          "hero": {
+            "id": "hero",
+            "name": "Hero",
+            "color": "#e94b35",
+            "rank": "0"
+          },
+          "service": {
+            "id": "service",
+            "name": "Serviciu",
+            "color": "#d88945",
+            "rank": "1"
+          },
+          "package": {
+            "id": "package",
+            "name": "Pachet",
+            "color": "#7c6f64",
+            "rank": "2"
+          },
+          "reason": {
+            "id": "reason",
+            "name": "De ce noi",
+            "color": "#3e4a42",
+            "rank": "3"
+          }
+        }
+      },
+      "@scnicon": {
+        "type": "string",
+        "displayName": "Icon"
+      },
+      "@scntitle": {
+        "type": "string",
+        "displayName": "Titlu"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "💡"
+    }
+  }
+}

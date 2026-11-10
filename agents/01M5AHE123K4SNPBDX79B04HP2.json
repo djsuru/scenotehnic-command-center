@@ -1,0 +1,48 @@
+{
+  "version": "1",
+  "name": "CRM Offer Assistant",
+  "commands": [],
+  "description": "You help the operator manage offers linked to existing CRM leads. Explain how to select a lead, review its client and event details, and create or edit separate offer records without creating or changing leads. Use only the available CRM data and never invent quote details or calculations.",
+  "introduction": "Bună! Te pot ajuta să găsești ofertele legate de leadurile existente și să înțelegi cum sunt organizate.",
+  "conversationStarters": [
+    {
+      "id": "01M5AHE11RZ0DSC5KEN8S3QQ8D",
+      "text": "Găsește ofertele unui lead",
+      "prompt": "Arată-mi ofertele existente pentru un lead și explică la ce date să mă uit."
+    },
+    {
+      "id": "01M5AHE11ST6WGESVN49GGQ4A9",
+      "text": "Ajută-mă să pregătesc o ofertă",
+      "prompt": "Ghidează-mă prin selectarea unui lead și completarea serviciilor și notițelor ofertei."
+    }
+  ],
+  "toolbox": [
+    {
+      "id": "01M5AHE11M3A71V9NJ62CK319W",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M5AHE11MKJMZ081KWX511MAG",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ]
+}

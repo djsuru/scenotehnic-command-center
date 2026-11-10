@@ -1,0 +1,331 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "c5639c11-e9ee-4593-af4b-0dfd073fd828",
+        "text": {
+          "ops": [
+            {
+              "insert": "SCENOTEHNICA - Jurnal operațional"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "5830e895-8d16-4451-b802-749c1130fd34",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Digesturi săptămânale SCENOTEHNIC",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fd8f5986-a660-465b-bbed-3b0fa6a3facc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Digest săptămânal SCENOTEHNIC"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c10490e0-7fde-4c4e-9eeb-3190e47e26ee",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Module active:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " niciun modul nu este marcat ca activ."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b171e9eb-4eba-46e8-a651-81edd19ff2da",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Direcții pregătite pentru extindere:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Dashboard Vânzări & Leaduri și CRM."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "10f0c242-cb3a-4921-93b3-c8b093a3c1cf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Ofertare:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Construire Ofertă."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6ad4c776-04fa-497b-8c14-19f9fe490994",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Prezență online:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Website SCENOTEHNIC."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6dcd64e3-3ca5-4686-88c6-6aff56fd3ca8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Organizare operațională:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Calendar evenimente."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aec10914-e3f2-4482-8bcd-80b500604c12",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Digest săptămânal SCENOTEHNIC"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cf64cdb7-6a90-4cd4-8b2d-98843e41d9e9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Catalogul include 5 module: Dashboard Vânzări & Leaduri, Construire Ofertă, Website SCENOTEHNIC, CRM și Calendar evenimente."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "361112cf-8590-4b45-b4e2-85ad3f58a054",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Modulele sunt prezentate ca elemente ale portalului, fără marcarea vreunuia ca activ."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d3e8cb3b-ea96-4ddb-b825-42f0f7a5c6d7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Nu sunt indicate explicit direcții pregătite pentru extindere în catalog."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🎨"
+    }
+  }
+}

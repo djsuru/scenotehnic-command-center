@@ -1,0 +1,80 @@
+{
+  "version": "2",
+  "flowTitle": "Digest săptămânal SCENOTEHNIC: catalogul este sumarizat și salvat automat în jurnalul operațional.",
+  "trigger": {
+    "valid": true,
+    "displayName": "Every Week",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-schedule",
+      "pieceVersion": "1.0.0",
+      "triggerName": "schedule.weekly",
+      "input": {
+        "timezone": "Europe/Bucharest",
+        "dayOfWeek": [
+          "Monday"
+        ],
+        "timeOfDay": "9:00 AM"
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "1168f0a9-258a-40b5-9aea-055402013bad",
+      "valid": true,
+      "displayName": "Export Project",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "project.export",
+        "input": {
+          "format": "markdown",
+          "projectId": "hZ8y99UfMR55zVhL"
+        }
+      }
+    },
+    {
+      "name": "fb481a9d-efdf-424b-92f4-5afec97c58cd",
+      "valid": true,
+      "displayName": "Ask AI",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "1.0.0",
+        "actionName": "ai.ask",
+        "input": {
+          "input": "{{ 1168f0a9-258a-40b5-9aea-055402013bad[\"content\"] }}",
+          "prompt": "Ești editorul operațional SCENOTEHNIC. Rezumă catalogul de module de mai jos în română, în maximum 5 puncte scurte. Evidențiază modulele active și direcțiile pregătite pentru extindere. Nu inventa informații.\n\nCatalog SCENOTEHNIC:"
+        }
+      }
+    },
+    {
+      "name": "163c6762-d425-4c6c-96fd-f3ad85a61757",
+      "valid": false,
+      "displayName": "Add Task",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "Digest săptămânal SCENOTEHNIC\n{{ fb481a9d-efdf-424b-92f4-5afec97c58cd[\"result\"] }}",
+          "position": "beforeend",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "Pagki8htQPAVRz9j"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "Pagki8htQPAVRz9j": {
+      "id": "Pagki8htQPAVRz9j",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

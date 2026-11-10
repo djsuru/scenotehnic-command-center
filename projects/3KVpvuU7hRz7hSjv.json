@@ -1,0 +1,3163 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a4d1d7c6-4ad5-4fb4-9e9c-7adf02a1be42",
+        "text": {
+          "ops": [
+            {
+              "insert": "SCENOTECHNIC - CRM solicitări"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "7f588f91-9d57-4f84-91c4-5d823cc4a956",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Solicitare de ofertă - Sartori Adriana🥰 - Petrecere privată"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@crmname": "Sartori Adriana🥰",
+              "@crmeventdate": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-19",
+                  "time": "00:00:00"
+                }
+              },
+              "@crmphone": "0723234782",
+              "@evfup": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-23",
+                  "time": "09:41:00",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@crmstatus": {
+                "type": "Select",
+                "optionId": "se_califica"
+              },
+              "@crmlocation": "Bucuresti",
+              "@crmeventtype": {
+                "type": "Select",
+                "optionId": "petrecere"
+              },
+              "@crmsource": "Formular public website",
+              "@crmobjective": "Test",
+              "@crmsubmitted": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-19",
+                  "time": "16:20:05",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@crmparticipants": 50,
+              "@crmemail": "adriana@prinsart.ro",
+              "@crmcompany": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "398d48c5-f532-4963-a30b-2a38ae57ca3f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "De ofertat · Sartori Adriana🥰"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@cCa01": {
+                    "type": "Select",
+                    "optionId": "offer"
+                  },
+                  "@cCd01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "06:00:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@cCp01": {
+                    "type": "Select",
+                    "optionId": "urgent"
+                  },
+                  "@cCs01": {
+                    "type": "Select",
+                    "optionId": "done"
+                  },
+                  "@cCs02": "Contactat",
+                  "@cCg01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "16:20:49",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@crmstatus": {
+                    "type": "Select",
+                    "optionId": "contactat"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "6a7dab1c-bdc7-437b-b865-3b7ac996c10a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "De ofertat · De ofertat · Sartori Adriana🥰"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": null,
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@cCa01": {
+                        "type": "Select",
+                        "optionId": "offer"
+                      },
+                      "@cCd01": {
+                        "type": "DateTime",
+                        "dateTime": {
+                          "date": "2026-10-19",
+                          "time": "06:00:00",
+                          "timezone": "Etc/UTC"
+                        }
+                      },
+                      "@cCp01": {
+                        "type": "Select",
+                        "optionId": "normal"
+                      },
+                      "@cCs01": {
+                        "type": "Select",
+                        "optionId": "done"
+                      },
+                      "@cCs02": "Contactat",
+                      "@cCg01": {
+                        "type": "DateTime",
+                        "dateTime": {
+                          "date": "2026-10-19",
+                          "time": "16:21:06",
+                          "timezone": "Etc/UTC"
+                        }
+                      },
+                      "@crmstatus": {
+                        "type": "Select",
+                        "optionId": "se_califica"
+                      }
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "id": "71f1c7b8-4e2f-4c3c-882d-122a3e061f00",
+                        "text": {
+                          "ops": [
+                            {
+                              "insert": "De ofertat · De ofertat · De ofertat · Sartori Adriana🥰"
+                            },
+                            {
+                              "insert": "\n",
+                              "attributes": {
+                                "paragraph": true
+                              }
+                            }
+                          ]
+                        },
+                        "format": null,
+                        "collapsed": false,
+                        "completed": false,
+                        "attributes": {
+                          "@cCa01": {
+                            "type": "Select",
+                            "optionId": "offer"
+                          },
+                          "@cCd01": {
+                            "type": "DateTime",
+                            "dateTime": {
+                              "date": "2026-10-19",
+                              "time": "06:00:00",
+                              "timezone": "Etc/UTC"
+                            }
+                          },
+                          "@cCp01": {
+                            "type": "Select",
+                            "optionId": "normal"
+                          },
+                          "@cCs01": {
+                            "type": "Select",
+                            "optionId": "failed"
+                          },
+                          "@cCs02": "Se califică",
+                          "@cCg01": {
+                            "type": "DateTime",
+                            "dateTime": {
+                              "date": "2026-10-19",
+                              "time": "16:29:50",
+                              "timezone": "Etc/UTC"
+                            }
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "4228250c-936d-418b-9cb2-c884d8e40e5e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "De sunat · Sartori Adriana🥰"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@cCa01": {
+                    "type": "Select",
+                    "optionId": "call"
+                  },
+                  "@cCd01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "06:00:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@cCp01": {
+                    "type": "Select",
+                    "optionId": "urgent"
+                  },
+                  "@cCs01": {
+                    "type": "Select",
+                    "optionId": "done"
+                  },
+                  "@cCs02": "Nou",
+                  "@cCg01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "16:21:24",
+                      "timezone": "Etc/UTC"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c240666d-c356-4d4f-baa1-022fbaadfcc8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "De ofertat · Sartori Adriana🥰"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@cCa01": {
+                    "type": "Select",
+                    "optionId": "offer"
+                  },
+                  "@cCd01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "06:00:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@cCp01": {
+                    "type": "Select",
+                    "optionId": "urgent"
+                  },
+                  "@cCs01": {
+                    "type": "Select",
+                    "optionId": "done"
+                  },
+                  "@cCs02": "Se califică",
+                  "@cCg01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "16:21:43",
+                      "timezone": "Etc/UTC"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a0721aa1-95eb-4944-aaa3-c9d6b36431a8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Follow-up · Sartori Adriana🥰"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@cCa01": {
+                    "type": "Select",
+                    "optionId": "follow_up"
+                  },
+                  "@cCd01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "06:00:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@cCp01": {
+                    "type": "Select",
+                    "optionId": "urgent"
+                  },
+                  "@cCs01": {
+                    "type": "Select",
+                    "optionId": "failed"
+                  },
+                  "@cCs02": "Ofertat",
+                  "@cCg01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "16:38:23",
+                      "timezone": "Etc/UTC"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ff4cd05d-7532-4b1f-a09c-96c12376bf14",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ofertă · Sartori Adriana🥰"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@evqst": {
+                    "type": "Select",
+                    "optionId": "in_lucru"
+                  },
+                  "@evsrv": "[{\"name\":\"Boxe\",\"quantity\":3,\"unitPrice\":250},{\"name\":\"Lumini\",\"quantity\":2,\"unitPrice\":100},{\"name\":\"cabaluri\",\"quantity\":1,\"unitPrice\":1000}]",
+                  "@evtot": 2117.5,
+                  "@crmname": "Sartori Adriana🥰",
+                  "@crmeventdate": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-10-19",
+                      "time": "00:00:00"
+                    }
+                  },
+                  "@evsen": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-04",
+                      "time": "00:00:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@evval": 1950,
+                  "@evpct": 0,
+                  "@crmphone": "0723234782",
+                  "@evfup": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-18",
+                      "time": "19:10:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@evver": 1,
+                  "@crmlocation": "Bucuresti",
+                  "@evgrp": "ff4cd05d-7532-4b1f-a09c-96c12376bf14",
+                  "@crmeventtype": {
+                    "type": "Select",
+                    "optionId": "petrecere"
+                  },
+                  "@evvat": 21,
+                  "@evdty": {
+                    "type": "Select",
+                    "optionId": "fix"
+                  },
+                  "@evdis": 200,
+                  "@crmparticipants": 50,
+                  "@crmemail": "adriana@prinsart.ro"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f570529c-1b38-4977-bc84-5e619ac8e6de",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Follow-up ofertă · ff4cd05d-7532-4b1f-a09c-96c12376bf14"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@cCa01": {
+                    "type": "Select",
+                    "optionId": "follow_up"
+                  },
+                  "@cCd01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-18",
+                      "time": "19:10:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@cCp01": {
+                    "type": "Select",
+                    "optionId": "normal"
+                  },
+                  "@cCs01": {
+                    "type": "Select",
+                    "optionId": "todo"
+                  },
+                  "@cCs02": "Se califică",
+                  "@cCg01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-09",
+                      "time": "10:10:35",
+                      "timezone": "Etc/UTC"
+                    }
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "99b7f275-ef5d-4fd1-a0f5-cfdb6246dfb4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Solicitare de ofertă - Suru Romulus - Gală"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@crmname": "Suru Romulus",
+              "@crmeventdate": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-11-28",
+                  "time": "00:00:00"
+                }
+              },
+              "@crmphone": "+40757873735",
+              "@crmstatus": {
+                "type": "Select",
+                "optionId": "ofertat"
+              },
+              "@crmlocation": "buresti",
+              "@crmeventtype": {
+                "type": "Select",
+                "optionId": "gala"
+              },
+              "@crmsource": "Formular public website",
+              "@crmobjective": "vreau un test 3",
+              "@crmsubmitted": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-11-05",
+                  "time": "16:31:38",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@crmparticipants": 150,
+              "@crmemail": "djdjjdjdjd@yahoo",
+              "@crmcompany": "PRINSART SRL"
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "b74cc838-bcfc-4675-a57f-48c4052ec5df",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "De ofertat · Suru Romulus"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@cCa01": {
+                    "type": "Select",
+                    "optionId": "offer"
+                  },
+                  "@cCd01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-05",
+                      "time": "07:00:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@cCp01": {
+                    "type": "Select",
+                    "optionId": "important"
+                  },
+                  "@cCs01": {
+                    "type": "Select",
+                    "optionId": "failed"
+                  },
+                  "@cCs02": "Contactat",
+                  "@cCg01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-05",
+                      "time": "16:32:03",
+                      "timezone": "Etc/UTC"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "65c39b2f-b35c-4768-9fbc-0c707e3e9bc3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "De ofertat · Suru Romulus"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@cCa01": {
+                    "type": "Select",
+                    "optionId": "offer"
+                  },
+                  "@cCd01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-05",
+                      "time": "07:00:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@cCp01": {
+                    "type": "Select",
+                    "optionId": "important"
+                  },
+                  "@cCs01": {
+                    "type": "Select",
+                    "optionId": "failed"
+                  },
+                  "@cCs02": "Se califică",
+                  "@cCg01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-05",
+                      "time": "16:32:47",
+                      "timezone": "Etc/UTC"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bd4e7c8d-2ad1-44ac-99ff-465703905154",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Follow-up · Suru Romulus"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": null,
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@cCa01": {
+                    "type": "Select",
+                    "optionId": "follow_up"
+                  },
+                  "@cCd01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-05",
+                      "time": "07:00:00",
+                      "timezone": "Etc/UTC"
+                    }
+                  },
+                  "@cCp01": {
+                    "type": "Select",
+                    "optionId": "important"
+                  },
+                  "@cCs01": {
+                    "type": "Select",
+                    "optionId": "failed"
+                  },
+                  "@cCs02": "Ofertat",
+                  "@cCg01": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2026-11-05",
+                      "time": "16:33:01",
+                      "timezone": "Etc/UTC"
+                    }
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@crmname": {
+            "id": "/attributes/@crmname",
+            "fieldPath": "/attributes/@crmname",
+            "rank": "z"
+          },
+          "/attributes/@crmemail": {
+            "id": "/attributes/@crmemail",
+            "fieldPath": "/attributes/@crmemail",
+            "rank": "zV"
+          },
+          "/attributes/@crmphone": {
+            "id": "/attributes/@crmphone",
+            "fieldPath": "/attributes/@crmphone",
+            "rank": "zk"
+          },
+          "/attributes/@crmcompany": {
+            "id": "/attributes/@crmcompany",
+            "fieldPath": "/attributes/@crmcompany",
+            "rank": "zs"
+          },
+          "/attributes/@crmeventdate": {
+            "id": "/attributes/@crmeventdate",
+            "fieldPath": "/attributes/@crmeventdate",
+            "rank": "zw"
+          },
+          "/attributes/@crmlocation": {
+            "id": "/attributes/@crmlocation",
+            "fieldPath": "/attributes/@crmlocation",
+            "rank": "zy"
+          },
+          "/attributes/@crmparticipants": {
+            "id": "/attributes/@crmparticipants",
+            "fieldPath": "/attributes/@crmparticipants",
+            "rank": "zz"
+          },
+          "/attributes/@crmeventtype": {
+            "id": "/attributes/@crmeventtype",
+            "fieldPath": "/attributes/@crmeventtype",
+            "rank": "zzV"
+          },
+          "/attributes/@crmobjective": {
+            "id": "/attributes/@crmobjective",
+            "fieldPath": "/attributes/@crmobjective",
+            "rank": "zzk"
+          },
+          "/attributes/@crmstatus": {
+            "id": "/attributes/@crmstatus",
+            "fieldPath": "/attributes/@crmstatus",
+            "rank": "zzs"
+          },
+          "/attributes/@crmsource": {
+            "id": "/attributes/@crmsource",
+            "fieldPath": "/attributes/@crmsource",
+            "rank": "zzw"
+          },
+          "/attributes/@crmsubmitted": {
+            "id": "/attributes/@crmsubmitted",
+            "fieldPath": "/attributes/@crmsubmitted",
+            "rank": "zzy"
+          },
+          "47943a59-c9a7-460f-b0ca-104759919b29": {
+            "id": "47943a59-c9a7-460f-b0ca-104759919b29",
+            "fieldPath": "/attributes/@05e05",
+            "rank": "zzz"
+          },
+          "eb87766a-debe-4f59-b5c2-3f457841d7e8": {
+            "id": "eb87766a-debe-4f59-b5c2-3f457841d7e8",
+            "fieldPath": "/attributes/@c8470",
+            "rank": "zzzV"
+          },
+          "0d63d991-02b3-4574-818f-0f28afb23572": {
+            "id": "0d63d991-02b3-4574-818f-0f28afb23572",
+            "fieldPath": "/attributes/@cCa01",
+            "rank": "zzzk"
+          },
+          "cd3b4f32-036e-4b1b-ac4b-9c0ad9384a2f": {
+            "id": "cd3b4f32-036e-4b1b-ac4b-9c0ad9384a2f",
+            "fieldPath": "/attributes/@cCd01",
+            "rank": "zzzs"
+          },
+          "e164748a-aa50-49b6-81fc-79fe874ebfdd": {
+            "id": "e164748a-aa50-49b6-81fc-79fe874ebfdd",
+            "fieldPath": "/attributes/@cCp01",
+            "rank": "zzzw"
+          },
+          "85e2d261-1a59-4a5b-85a5-f40a2c31d562": {
+            "id": "85e2d261-1a59-4a5b-85a5-f40a2c31d562",
+            "fieldPath": "/attributes/@cCs01",
+            "rank": "zzzy"
+          },
+          "724816d3-7665-48ed-8b52-58c17b89b651": {
+            "id": "724816d3-7665-48ed-8b52-58c17b89b651",
+            "fieldPath": "/attributes/@cCs02",
+            "rank": "zzzz"
+          },
+          "1de83c2a-31a8-4880-a4a4-53af0ca0aa9e": {
+            "id": "1de83c2a-31a8-4880-a4a4-53af0ca0aa9e",
+            "fieldPath": "/attributes/@cCg01",
+            "rank": "zzzzV"
+          },
+          "a32362ce-7855-413b-ad1f-dfc2b78f5109": {
+            "id": "a32362ce-7855-413b-ad1f-dfc2b78f5109",
+            "fieldPath": "/attributes/@epr01",
+            "rank": "zzzzk"
+          },
+          "e03ab381-9427-4964-93ef-c7431250e31f": {
+            "id": "e03ab381-9427-4964-93ef-c7431250e31f",
+            "fieldPath": "/attributes/@en0me",
+            "rank": "zzzzs"
+          },
+          "0d31ac37-5678-4ebf-b379-02ea434f9494": {
+            "id": "0d31ac37-5678-4ebf-b379-02ea434f9494",
+            "fieldPath": "/attributes/@evsln",
+            "rank": "zzzzw"
+          },
+          "e2750880-926f-402c-a492-1742983f366d": {
+            "id": "e2750880-926f-402c-a492-1742983f366d",
+            "fieldPath": "/attributes/@evmed",
+            "rank": "zzzzy"
+          },
+          "0061288c-828a-46e8-9864-0b1ef023fc1d": {
+            "id": "0061288c-828a-46e8-9864-0b1ef023fc1d",
+            "fieldPath": "/attributes/@evcap",
+            "rank": "zzzzz"
+          },
+          "da01e9ff-9193-4bf2-9ae2-98588e07808f": {
+            "id": "da01e9ff-9193-4bf2-9ae2-98588e07808f",
+            "fieldPath": "/attributes/@evfup",
+            "rank": "zzzzzV"
+          },
+          "79a836bf-762f-42e9-aaa2-6fc7d8bc563e": {
+            "id": "79a836bf-762f-42e9-aaa2-6fc7d8bc563e",
+            "fieldPath": "/attributes/@evnot",
+            "rank": "zzzzzk"
+          },
+          "7c151838-a581-405d-bd1b-32959ab7fc23": {
+            "id": "7c151838-a581-405d-bd1b-32959ab7fc23",
+            "fieldPath": "/attributes/@evsen",
+            "rank": "zzzzzs"
+          },
+          "c862b78e-909f-48b6-a78e-90622b7a1c6c": {
+            "id": "c862b78e-909f-48b6-a78e-90622b7a1c6c",
+            "fieldPath": "/attributes/@evsrv",
+            "rank": "zzzzzw"
+          },
+          "110f99c5-cdba-4dc4-91b9-861818ea08a3": {
+            "id": "110f99c5-cdba-4dc4-91b9-861818ea08a3",
+            "fieldPath": "/attributes/@evval",
+            "rank": "zzzzzy"
+          },
+          "cca9a89e-89cf-41cd-9e4a-88aeae7f67f4": {
+            "id": "cca9a89e-89cf-41cd-9e4a-88aeae7f67f4",
+            "fieldPath": "/attributes/@evdis",
+            "rank": "zzzzzz"
+          },
+          "0f95810f-b733-4cef-b156-c1a5efbb7544": {
+            "id": "0f95810f-b733-4cef-b156-c1a5efbb7544",
+            "fieldPath": "/attributes/@evvat",
+            "rank": "zzzzzzV"
+          },
+          "e671bc78-dbd6-4a9f-bb07-a72a85909f0d": {
+            "id": "e671bc78-dbd6-4a9f-bb07-a72a85909f0d",
+            "fieldPath": "/attributes/@evtot",
+            "rank": "zzzzzzk"
+          },
+          "944d7ffa-3d7c-49d0-9102-e038b46dae0b": {
+            "id": "944d7ffa-3d7c-49d0-9102-e038b46dae0b",
+            "fieldPath": "/attributes/@evqst",
+            "rank": "zzzzzzs"
+          },
+          "4b95d883-73f0-489a-897d-8c5c097cceeb": {
+            "id": "4b95d883-73f0-489a-897d-8c5c097cceeb",
+            "fieldPath": "/attributes/@evqnt",
+            "rank": "zzzzzzw"
+          },
+          "5353fcf2-4bf3-4793-8bbe-9d20551b0167": {
+            "id": "5353fcf2-4bf3-4793-8bbe-9d20551b0167",
+            "fieldPath": "/attributes/@evexp",
+            "rank": "zzzzzzy"
+          },
+          "2e40f991-fb8e-4236-9e99-f9a99f45a364": {
+            "id": "2e40f991-fb8e-4236-9e99-f9a99f45a364",
+            "fieldPath": "/attributes/@evdty",
+            "rank": "zzzzzzz"
+          },
+          "9e91e6ac-5b76-4381-a828-385a86c4cdb4": {
+            "id": "9e91e6ac-5b76-4381-a828-385a86c4cdb4",
+            "fieldPath": "/attributes/@evpct",
+            "rank": "zzzzzzzV"
+          },
+          "af0810a6-7aa7-4ec4-917d-2662a758c1f0": {
+            "id": "af0810a6-7aa7-4ec4-917d-2662a758c1f0",
+            "fieldPath": "/attributes/@evtrm",
+            "rank": "zzzzzzzk"
+          },
+          "a1d2b3d0-1237-4e3f-ba91-c83dc1342276": {
+            "id": "a1d2b3d0-1237-4e3f-ba91-c83dc1342276",
+            "fieldPath": "/attributes/@evgrp",
+            "rank": "zzzzzzzs"
+          },
+          "99d59556-e049-4067-ac91-478813d66e86": {
+            "id": "99d59556-e049-4067-ac91-478813d66e86",
+            "fieldPath": "/attributes/@evver",
+            "rank": "zzzzzzzw"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@crmname": {
+            "id": "/attributes/@crmname",
+            "fieldPath": "/attributes/@crmname",
+            "rank": "z"
+          },
+          "/attributes/@crmemail": {
+            "id": "/attributes/@crmemail",
+            "fieldPath": "/attributes/@crmemail",
+            "rank": "zV"
+          },
+          "/attributes/@crmphone": {
+            "id": "/attributes/@crmphone",
+            "fieldPath": "/attributes/@crmphone",
+            "rank": "zk"
+          },
+          "/attributes/@crmcompany": {
+            "id": "/attributes/@crmcompany",
+            "fieldPath": "/attributes/@crmcompany",
+            "rank": "zs"
+          },
+          "/attributes/@crmeventdate": {
+            "id": "/attributes/@crmeventdate",
+            "fieldPath": "/attributes/@crmeventdate",
+            "rank": "zw"
+          },
+          "/attributes/@crmlocation": {
+            "id": "/attributes/@crmlocation",
+            "fieldPath": "/attributes/@crmlocation",
+            "rank": "zy"
+          },
+          "/attributes/@crmparticipants": {
+            "id": "/attributes/@crmparticipants",
+            "fieldPath": "/attributes/@crmparticipants",
+            "rank": "zz"
+          },
+          "/attributes/@crmeventtype": {
+            "id": "/attributes/@crmeventtype",
+            "fieldPath": "/attributes/@crmeventtype",
+            "rank": "zzV"
+          },
+          "/attributes/@crmobjective": {
+            "id": "/attributes/@crmobjective",
+            "fieldPath": "/attributes/@crmobjective",
+            "rank": "zzk"
+          },
+          "/attributes/@crmstatus": {
+            "id": "/attributes/@crmstatus",
+            "fieldPath": "/attributes/@crmstatus",
+            "rank": "zzs"
+          },
+          "/attributes/@crmsource": {
+            "id": "/attributes/@crmsource",
+            "fieldPath": "/attributes/@crmsource",
+            "rank": "zzw"
+          },
+          "/attributes/@crmsubmitted": {
+            "id": "/attributes/@crmsubmitted",
+            "fieldPath": "/attributes/@crmsubmitted",
+            "rank": "zzy"
+          },
+          "79907a35-333d-4838-b77c-d33e8620df9c": {
+            "id": "79907a35-333d-4838-b77c-d33e8620df9c",
+            "fieldPath": "/attributes/@05e05",
+            "rank": "zzz"
+          },
+          "9892baf7-3d0b-4a48-a3f6-bd504fb24a7a": {
+            "id": "9892baf7-3d0b-4a48-a3f6-bd504fb24a7a",
+            "fieldPath": "/attributes/@c8470",
+            "rank": "zzzV"
+          },
+          "6bd627f4-21e7-40a2-b12a-b8b285218c23": {
+            "id": "6bd627f4-21e7-40a2-b12a-b8b285218c23",
+            "fieldPath": "/attributes/@cCa01",
+            "rank": "zzzk"
+          },
+          "dbbdd88d-65a9-45bb-9d9d-35f89c6428bf": {
+            "id": "dbbdd88d-65a9-45bb-9d9d-35f89c6428bf",
+            "fieldPath": "/attributes/@cCd01",
+            "rank": "zzzs"
+          },
+          "2045a21c-5754-460c-81ab-ba3a70560b9e": {
+            "id": "2045a21c-5754-460c-81ab-ba3a70560b9e",
+            "fieldPath": "/attributes/@cCp01",
+            "rank": "zzzw"
+          },
+          "34012669-593f-4f70-9f7e-044b1ffac201": {
+            "id": "34012669-593f-4f70-9f7e-044b1ffac201",
+            "fieldPath": "/attributes/@cCs01",
+            "rank": "zzzy"
+          },
+          "2cb0abfd-f737-4ecf-8c02-9eae1e76b9f3": {
+            "id": "2cb0abfd-f737-4ecf-8c02-9eae1e76b9f3",
+            "fieldPath": "/attributes/@cCs02",
+            "rank": "zzzz"
+          },
+          "61a2241b-eac9-4c29-9691-69c12afc99aa": {
+            "id": "61a2241b-eac9-4c29-9691-69c12afc99aa",
+            "fieldPath": "/attributes/@cCg01",
+            "rank": "zzzzV"
+          },
+          "5dff1b15-c403-4e0d-9d67-c40195ed8507": {
+            "id": "5dff1b15-c403-4e0d-9d67-c40195ed8507",
+            "fieldPath": "/attributes/@epr01",
+            "rank": "zzzzk"
+          },
+          "d3de7b1e-ce99-470c-9aca-53877e4f5088": {
+            "id": "d3de7b1e-ce99-470c-9aca-53877e4f5088",
+            "fieldPath": "/attributes/@en0me",
+            "rank": "zzzzs"
+          },
+          "ec8d6992-92de-4dee-b0cd-5df65fe9ab5c": {
+            "id": "ec8d6992-92de-4dee-b0cd-5df65fe9ab5c",
+            "fieldPath": "/attributes/@evsln",
+            "rank": "zzzzw"
+          },
+          "87315f7c-3925-41e2-85a0-17c891fa4efd": {
+            "id": "87315f7c-3925-41e2-85a0-17c891fa4efd",
+            "fieldPath": "/attributes/@evmed",
+            "rank": "zzzzy"
+          },
+          "541d32b0-acf9-43d2-af90-bb4bc08b79d1": {
+            "id": "541d32b0-acf9-43d2-af90-bb4bc08b79d1",
+            "fieldPath": "/attributes/@evcap",
+            "rank": "zzzzz"
+          },
+          "14edec9e-8160-4b07-9446-63a3b165c2fa": {
+            "id": "14edec9e-8160-4b07-9446-63a3b165c2fa",
+            "fieldPath": "/attributes/@evfup",
+            "rank": "zzzzzV"
+          },
+          "0ee68516-f88a-458f-aad5-57954904278d": {
+            "id": "0ee68516-f88a-458f-aad5-57954904278d",
+            "fieldPath": "/attributes/@evnot",
+            "rank": "zzzzzk"
+          },
+          "432fd911-40ea-46e8-b23f-29e9795aef48": {
+            "id": "432fd911-40ea-46e8-b23f-29e9795aef48",
+            "fieldPath": "/attributes/@evsen",
+            "rank": "zzzzzs"
+          },
+          "f1a18310-8f49-49d7-a6f4-65399e4a7a30": {
+            "id": "f1a18310-8f49-49d7-a6f4-65399e4a7a30",
+            "fieldPath": "/attributes/@evsrv",
+            "rank": "zzzzzw"
+          },
+          "5dc8534b-2918-4f71-a203-6b5e55b447c0": {
+            "id": "5dc8534b-2918-4f71-a203-6b5e55b447c0",
+            "fieldPath": "/attributes/@evval",
+            "rank": "zzzzzy"
+          },
+          "333668a6-6d15-48ac-81ae-10fcedad2664": {
+            "id": "333668a6-6d15-48ac-81ae-10fcedad2664",
+            "fieldPath": "/attributes/@evdis",
+            "rank": "zzzzzz"
+          },
+          "bbc3915f-974d-4877-b088-f6726720939e": {
+            "id": "bbc3915f-974d-4877-b088-f6726720939e",
+            "fieldPath": "/attributes/@evvat",
+            "rank": "zzzzzzV"
+          },
+          "0d0396ec-36c8-49b8-9ce8-80db987f2b82": {
+            "id": "0d0396ec-36c8-49b8-9ce8-80db987f2b82",
+            "fieldPath": "/attributes/@evtot",
+            "rank": "zzzzzzk"
+          },
+          "44dfb011-bdaa-4f4f-839b-f675c6100875": {
+            "id": "44dfb011-bdaa-4f4f-839b-f675c6100875",
+            "fieldPath": "/attributes/@evqst",
+            "rank": "zzzzzzs"
+          },
+          "e1e8e36d-861a-43a1-ae90-a22b06c306f5": {
+            "id": "e1e8e36d-861a-43a1-ae90-a22b06c306f5",
+            "fieldPath": "/attributes/@evqnt",
+            "rank": "zzzzzzw"
+          },
+          "894ae1cd-8260-4d33-a793-7a88c50ef972": {
+            "id": "894ae1cd-8260-4d33-a793-7a88c50ef972",
+            "fieldPath": "/attributes/@evexp",
+            "rank": "zzzzzzy"
+          },
+          "611f2da2-198f-4306-9e4c-867644280561": {
+            "id": "611f2da2-198f-4306-9e4c-867644280561",
+            "fieldPath": "/attributes/@evdty",
+            "rank": "zzzzzzz"
+          },
+          "61fde0c2-4b93-459f-af6b-18b8fd8ffd65": {
+            "id": "61fde0c2-4b93-459f-af6b-18b8fd8ffd65",
+            "fieldPath": "/attributes/@evpct",
+            "rank": "zzzzzzzV"
+          },
+          "4c577233-7d61-4572-92ee-482b7bbadefd": {
+            "id": "4c577233-7d61-4572-92ee-482b7bbadefd",
+            "fieldPath": "/attributes/@evtrm",
+            "rank": "zzzzzzzk"
+          },
+          "a656cfc0-5336-486d-a919-5613753b013a": {
+            "id": "a656cfc0-5336-486d-a919-5613753b013a",
+            "fieldPath": "/attributes/@evgrp",
+            "rank": "zzzzzzzs"
+          },
+          "7d2c84fc-69bd-49c5-8aa7-2b17901b0294": {
+            "id": "7d2c84fc-69bd-49c5-8aa7-2b17901b0294",
+            "fieldPath": "/attributes/@evver",
+            "rank": "zzzzzzzw"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@crmname": {
+            "id": "/attributes/@crmname",
+            "fieldPath": "/attributes/@crmname",
+            "rank": "z"
+          },
+          "/attributes/@crmemail": {
+            "id": "/attributes/@crmemail",
+            "fieldPath": "/attributes/@crmemail",
+            "rank": "zV"
+          },
+          "/attributes/@crmphone": {
+            "id": "/attributes/@crmphone",
+            "fieldPath": "/attributes/@crmphone",
+            "rank": "zk"
+          },
+          "/attributes/@crmcompany": {
+            "id": "/attributes/@crmcompany",
+            "fieldPath": "/attributes/@crmcompany",
+            "rank": "zs"
+          },
+          "/attributes/@crmeventdate": {
+            "id": "/attributes/@crmeventdate",
+            "fieldPath": "/attributes/@crmeventdate",
+            "rank": "zw"
+          },
+          "/attributes/@crmlocation": {
+            "id": "/attributes/@crmlocation",
+            "fieldPath": "/attributes/@crmlocation",
+            "rank": "zy"
+          },
+          "/attributes/@crmparticipants": {
+            "id": "/attributes/@crmparticipants",
+            "fieldPath": "/attributes/@crmparticipants",
+            "rank": "zz"
+          },
+          "/attributes/@crmeventtype": {
+            "id": "/attributes/@crmeventtype",
+            "fieldPath": "/attributes/@crmeventtype",
+            "rank": "zzV"
+          },
+          "/attributes/@crmobjective": {
+            "id": "/attributes/@crmobjective",
+            "fieldPath": "/attributes/@crmobjective",
+            "rank": "zzk"
+          },
+          "/attributes/@crmstatus": {
+            "id": "/attributes/@crmstatus",
+            "fieldPath": "/attributes/@crmstatus",
+            "rank": "zzs"
+          },
+          "/attributes/@crmsource": {
+            "id": "/attributes/@crmsource",
+            "fieldPath": "/attributes/@crmsource",
+            "rank": "zzw"
+          },
+          "/attributes/@crmsubmitted": {
+            "id": "/attributes/@crmsubmitted",
+            "fieldPath": "/attributes/@crmsubmitted",
+            "rank": "zzy"
+          },
+          "b8a5d9fc-667c-4809-979e-d4474e1dc940": {
+            "id": "b8a5d9fc-667c-4809-979e-d4474e1dc940",
+            "fieldPath": "/attributes/@05e05",
+            "rank": "zzz"
+          },
+          "c6e7a712-c1f4-4317-80e2-8fe213fba5f1": {
+            "id": "c6e7a712-c1f4-4317-80e2-8fe213fba5f1",
+            "fieldPath": "/attributes/@c8470",
+            "rank": "zzzV"
+          },
+          "b4ffc703-6e57-4dd9-b42e-b2344fd5beaf": {
+            "id": "b4ffc703-6e57-4dd9-b42e-b2344fd5beaf",
+            "fieldPath": "/attributes/@cCa01",
+            "rank": "zzzk"
+          },
+          "70896cee-be61-45cb-bc69-ac3f839d71f6": {
+            "id": "70896cee-be61-45cb-bc69-ac3f839d71f6",
+            "fieldPath": "/attributes/@cCd01",
+            "rank": "zzzs"
+          },
+          "0e7601b3-e717-40a7-ab08-bd1bc6b1e98c": {
+            "id": "0e7601b3-e717-40a7-ab08-bd1bc6b1e98c",
+            "fieldPath": "/attributes/@cCp01",
+            "rank": "zzzw"
+          },
+          "32ef5bd1-bb53-46f5-a04c-b7c27ee528cb": {
+            "id": "32ef5bd1-bb53-46f5-a04c-b7c27ee528cb",
+            "fieldPath": "/attributes/@cCs01",
+            "rank": "zzzy"
+          },
+          "8d1e359e-6e3d-4441-ba11-01402b4c7f71": {
+            "id": "8d1e359e-6e3d-4441-ba11-01402b4c7f71",
+            "fieldPath": "/attributes/@cCs02",
+            "rank": "zzzz"
+          },
+          "4613a479-c726-45d0-ae22-36cfdb9a85ca": {
+            "id": "4613a479-c726-45d0-ae22-36cfdb9a85ca",
+            "fieldPath": "/attributes/@cCg01",
+            "rank": "zzzzV"
+          },
+          "d06222ad-7c61-4234-bfb8-3d3657672c3f": {
+            "id": "d06222ad-7c61-4234-bfb8-3d3657672c3f",
+            "fieldPath": "/attributes/@epr01",
+            "rank": "zzzzk"
+          },
+          "6d52a665-d590-4545-9c2f-5c5c51245739": {
+            "id": "6d52a665-d590-4545-9c2f-5c5c51245739",
+            "fieldPath": "/attributes/@en0me",
+            "rank": "zzzzs"
+          },
+          "07baba0f-c3f8-4ba5-81fd-ad0579b34cf9": {
+            "id": "07baba0f-c3f8-4ba5-81fd-ad0579b34cf9",
+            "fieldPath": "/attributes/@evsln",
+            "rank": "zzzzw"
+          },
+          "781da16b-1d9d-456a-8eed-bf97892cff3b": {
+            "id": "781da16b-1d9d-456a-8eed-bf97892cff3b",
+            "fieldPath": "/attributes/@evmed",
+            "rank": "zzzzy"
+          },
+          "433d234a-db2f-4b43-8e41-ff60bba49cfe": {
+            "id": "433d234a-db2f-4b43-8e41-ff60bba49cfe",
+            "fieldPath": "/attributes/@evcap",
+            "rank": "zzzzz"
+          },
+          "f3c9adfe-8938-4e64-86f2-abacc17a1b08": {
+            "id": "f3c9adfe-8938-4e64-86f2-abacc17a1b08",
+            "fieldPath": "/attributes/@evfup",
+            "rank": "zzzzzV"
+          },
+          "834de8b1-4a25-4ef7-971c-78bf89998ff5": {
+            "id": "834de8b1-4a25-4ef7-971c-78bf89998ff5",
+            "fieldPath": "/attributes/@evnot",
+            "rank": "zzzzzk"
+          },
+          "85fe9f14-1d28-4254-a416-ba8655d85219": {
+            "id": "85fe9f14-1d28-4254-a416-ba8655d85219",
+            "fieldPath": "/attributes/@evsen",
+            "rank": "zzzzzs"
+          },
+          "75e81da7-e482-4389-9687-28be11f168e8": {
+            "id": "75e81da7-e482-4389-9687-28be11f168e8",
+            "fieldPath": "/attributes/@evsrv",
+            "rank": "zzzzzw"
+          },
+          "11a6d1c0-388f-4674-acb5-a0e24948213d": {
+            "id": "11a6d1c0-388f-4674-acb5-a0e24948213d",
+            "fieldPath": "/attributes/@evval",
+            "rank": "zzzzzy"
+          },
+          "47839c70-75b2-4838-b59e-65c9b691b562": {
+            "id": "47839c70-75b2-4838-b59e-65c9b691b562",
+            "fieldPath": "/attributes/@evdis",
+            "rank": "zzzzzz"
+          },
+          "4df5a0a0-2e5c-4977-aa11-ad8eff4c10cd": {
+            "id": "4df5a0a0-2e5c-4977-aa11-ad8eff4c10cd",
+            "fieldPath": "/attributes/@evvat",
+            "rank": "zzzzzzV"
+          },
+          "2ac41090-55c2-4708-b64f-15de02321ef9": {
+            "id": "2ac41090-55c2-4708-b64f-15de02321ef9",
+            "fieldPath": "/attributes/@evtot",
+            "rank": "zzzzzzk"
+          },
+          "9af853c4-e366-48c5-8dd3-aac3a0a15bd6": {
+            "id": "9af853c4-e366-48c5-8dd3-aac3a0a15bd6",
+            "fieldPath": "/attributes/@evqst",
+            "rank": "zzzzzzs"
+          },
+          "3f64afbe-ad4d-4dd5-a464-3605c286ba76": {
+            "id": "3f64afbe-ad4d-4dd5-a464-3605c286ba76",
+            "fieldPath": "/attributes/@evqnt",
+            "rank": "zzzzzzw"
+          },
+          "88f27b90-70ad-43e0-83b6-1ffc22e7f8ec": {
+            "id": "88f27b90-70ad-43e0-83b6-1ffc22e7f8ec",
+            "fieldPath": "/attributes/@evexp",
+            "rank": "zzzzzzy"
+          },
+          "f904f69c-9226-4c8c-8253-97068251892a": {
+            "id": "f904f69c-9226-4c8c-8253-97068251892a",
+            "fieldPath": "/attributes/@evdty",
+            "rank": "zzzzzzz"
+          },
+          "179fe753-8c5e-4449-9415-7a0f0e2efba1": {
+            "id": "179fe753-8c5e-4449-9415-7a0f0e2efba1",
+            "fieldPath": "/attributes/@evpct",
+            "rank": "zzzzzzzV"
+          },
+          "763c418d-139e-4d65-8645-962b24432db3": {
+            "id": "763c418d-139e-4d65-8645-962b24432db3",
+            "fieldPath": "/attributes/@evtrm",
+            "rank": "zzzzzzzk"
+          },
+          "3fc4ce25-bf13-4bee-b949-5d981597a9e4": {
+            "id": "3fc4ce25-bf13-4bee-b949-5d981597a9e4",
+            "fieldPath": "/attributes/@evgrp",
+            "rank": "zzzzzzzs"
+          },
+          "1b4dfd54-1d77-4b56-a9e0-d734259657f4": {
+            "id": "1b4dfd54-1d77-4b56-a9e0-d734259657f4",
+            "fieldPath": "/attributes/@evver",
+            "rank": "zzzzzzzw"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@crmname": {
+            "id": "/attributes/@crmname",
+            "fieldPath": "/attributes/@crmname",
+            "rank": "z"
+          },
+          "/attributes/@crmemail": {
+            "id": "/attributes/@crmemail",
+            "fieldPath": "/attributes/@crmemail",
+            "rank": "zV"
+          },
+          "/attributes/@crmphone": {
+            "id": "/attributes/@crmphone",
+            "fieldPath": "/attributes/@crmphone",
+            "rank": "zk"
+          },
+          "/attributes/@crmcompany": {
+            "id": "/attributes/@crmcompany",
+            "fieldPath": "/attributes/@crmcompany",
+            "rank": "zs"
+          },
+          "/attributes/@crmeventdate": {
+            "id": "/attributes/@crmeventdate",
+            "fieldPath": "/attributes/@crmeventdate",
+            "rank": "zw"
+          },
+          "/attributes/@crmlocation": {
+            "id": "/attributes/@crmlocation",
+            "fieldPath": "/attributes/@crmlocation",
+            "rank": "zy"
+          },
+          "/attributes/@crmparticipants": {
+            "id": "/attributes/@crmparticipants",
+            "fieldPath": "/attributes/@crmparticipants",
+            "rank": "zz"
+          },
+          "/attributes/@crmeventtype": {
+            "id": "/attributes/@crmeventtype",
+            "fieldPath": "/attributes/@crmeventtype",
+            "rank": "zzV"
+          },
+          "/attributes/@crmobjective": {
+            "id": "/attributes/@crmobjective",
+            "fieldPath": "/attributes/@crmobjective",
+            "rank": "zzk"
+          },
+          "/attributes/@crmstatus": {
+            "id": "/attributes/@crmstatus",
+            "fieldPath": "/attributes/@crmstatus",
+            "rank": "zzs"
+          },
+          "/attributes/@crmsource": {
+            "id": "/attributes/@crmsource",
+            "fieldPath": "/attributes/@crmsource",
+            "rank": "zzw"
+          },
+          "/attributes/@crmsubmitted": {
+            "id": "/attributes/@crmsubmitted",
+            "fieldPath": "/attributes/@crmsubmitted",
+            "rank": "zzy"
+          },
+          "e3e19986-ee5f-4f80-9477-ed30bfd3d5b5": {
+            "id": "e3e19986-ee5f-4f80-9477-ed30bfd3d5b5",
+            "fieldPath": "/attributes/@05e05",
+            "rank": "zzz"
+          },
+          "69b3f294-9975-4f03-9179-65be5378f61c": {
+            "id": "69b3f294-9975-4f03-9179-65be5378f61c",
+            "fieldPath": "/attributes/@c8470",
+            "rank": "zzzV"
+          },
+          "7c7d8dc2-2019-4613-aede-52b849d5101d": {
+            "id": "7c7d8dc2-2019-4613-aede-52b849d5101d",
+            "fieldPath": "/attributes/@cCa01",
+            "rank": "zzzk"
+          },
+          "8ff45e66-c470-4c34-821d-b6ae7e762aa5": {
+            "id": "8ff45e66-c470-4c34-821d-b6ae7e762aa5",
+            "fieldPath": "/attributes/@cCd01",
+            "rank": "zzzs"
+          },
+          "5a015721-94c6-4023-ba58-061236bdd5e6": {
+            "id": "5a015721-94c6-4023-ba58-061236bdd5e6",
+            "fieldPath": "/attributes/@cCp01",
+            "rank": "zzzw"
+          },
+          "2e451918-477c-4d46-92e4-dc7922404579": {
+            "id": "2e451918-477c-4d46-92e4-dc7922404579",
+            "fieldPath": "/attributes/@cCs01",
+            "rank": "zzzy"
+          },
+          "9159de90-30cf-4aae-8d1e-e15dfe74226e": {
+            "id": "9159de90-30cf-4aae-8d1e-e15dfe74226e",
+            "fieldPath": "/attributes/@cCs02",
+            "rank": "zzzz"
+          },
+          "ed842c68-c1ea-4c04-894a-ab0462c5e48b": {
+            "id": "ed842c68-c1ea-4c04-894a-ab0462c5e48b",
+            "fieldPath": "/attributes/@cCg01",
+            "rank": "zzzzV"
+          },
+          "17cc1b91-1a34-44b1-a463-110fbd32384c": {
+            "id": "17cc1b91-1a34-44b1-a463-110fbd32384c",
+            "fieldPath": "/attributes/@epr01",
+            "rank": "zzzzk"
+          },
+          "4f67ad53-ff5a-44d9-9684-1d7ea8689878": {
+            "id": "4f67ad53-ff5a-44d9-9684-1d7ea8689878",
+            "fieldPath": "/attributes/@en0me",
+            "rank": "zzzzs"
+          },
+          "105d933c-dac0-4a60-8989-17854ab5444f": {
+            "id": "105d933c-dac0-4a60-8989-17854ab5444f",
+            "fieldPath": "/attributes/@evsln",
+            "rank": "zzzzw"
+          },
+          "128b77a9-9ec8-4726-afd0-38062df86275": {
+            "id": "128b77a9-9ec8-4726-afd0-38062df86275",
+            "fieldPath": "/attributes/@evmed",
+            "rank": "zzzzy"
+          },
+          "1de853c8-6c1b-4f75-a557-fcf1343546e6": {
+            "id": "1de853c8-6c1b-4f75-a557-fcf1343546e6",
+            "fieldPath": "/attributes/@evcap",
+            "rank": "zzzzz"
+          },
+          "8701fa9a-5f9d-4a59-af15-ab2b88989e9c": {
+            "id": "8701fa9a-5f9d-4a59-af15-ab2b88989e9c",
+            "fieldPath": "/attributes/@evfup",
+            "rank": "zzzzzV"
+          },
+          "8908bcfd-08d9-45f5-9f39-d3c1b7b6ca36": {
+            "id": "8908bcfd-08d9-45f5-9f39-d3c1b7b6ca36",
+            "fieldPath": "/attributes/@evnot",
+            "rank": "zzzzzk"
+          },
+          "f8ee7301-bf74-45a7-a043-d84dd30429e9": {
+            "id": "f8ee7301-bf74-45a7-a043-d84dd30429e9",
+            "fieldPath": "/attributes/@evsen",
+            "rank": "zzzzzs"
+          },
+          "c10968b3-1142-416d-8e2f-f7c789e35fd8": {
+            "id": "c10968b3-1142-416d-8e2f-f7c789e35fd8",
+            "fieldPath": "/attributes/@evsrv",
+            "rank": "zzzzzw"
+          },
+          "0c4c982b-2e84-41fd-b02e-ad11cec3c2af": {
+            "id": "0c4c982b-2e84-41fd-b02e-ad11cec3c2af",
+            "fieldPath": "/attributes/@evval",
+            "rank": "zzzzzy"
+          },
+          "5748a897-0164-49fc-8913-fd371220a30a": {
+            "id": "5748a897-0164-49fc-8913-fd371220a30a",
+            "fieldPath": "/attributes/@evdis",
+            "rank": "zzzzzz"
+          },
+          "f4bd27af-9aa7-467b-8f6d-7722b70535a6": {
+            "id": "f4bd27af-9aa7-467b-8f6d-7722b70535a6",
+            "fieldPath": "/attributes/@evvat",
+            "rank": "zzzzzzV"
+          },
+          "939b4e2c-d291-445f-8fff-fb090787d2be": {
+            "id": "939b4e2c-d291-445f-8fff-fb090787d2be",
+            "fieldPath": "/attributes/@evtot",
+            "rank": "zzzzzzk"
+          },
+          "2d44b77f-948d-421c-ba35-ddfcf08f3dc1": {
+            "id": "2d44b77f-948d-421c-ba35-ddfcf08f3dc1",
+            "fieldPath": "/attributes/@evqst",
+            "rank": "zzzzzzs"
+          },
+          "757351ec-faf6-4cf9-b4d2-fcc0d490c256": {
+            "id": "757351ec-faf6-4cf9-b4d2-fcc0d490c256",
+            "fieldPath": "/attributes/@evqnt",
+            "rank": "zzzzzzw"
+          },
+          "9b940d15-51d0-457e-a18c-82f47735eb05": {
+            "id": "9b940d15-51d0-457e-a18c-82f47735eb05",
+            "fieldPath": "/attributes/@evexp",
+            "rank": "zzzzzzy"
+          },
+          "bb3f6cea-eb14-44b9-a9b8-493c2fd56000": {
+            "id": "bb3f6cea-eb14-44b9-a9b8-493c2fd56000",
+            "fieldPath": "/attributes/@evdty",
+            "rank": "zzzzzzz"
+          },
+          "2aa0b79f-4ac0-402a-a5a5-456472c2b76e": {
+            "id": "2aa0b79f-4ac0-402a-a5a5-456472c2b76e",
+            "fieldPath": "/attributes/@evpct",
+            "rank": "zzzzzzzV"
+          },
+          "e90ffc1a-cce0-4cb1-af9e-252646ec6198": {
+            "id": "e90ffc1a-cce0-4cb1-af9e-252646ec6198",
+            "fieldPath": "/attributes/@evtrm",
+            "rank": "zzzzzzzk"
+          },
+          "060d51fc-4f89-4bdd-ac22-6fd1486b21c2": {
+            "id": "060d51fc-4f89-4bdd-ac22-6fd1486b21c2",
+            "fieldPath": "/attributes/@evgrp",
+            "rank": "zzzzzzzs"
+          },
+          "c455a7ce-8b6c-4e8c-bc51-8f0dffc33edf": {
+            "id": "c455a7ce-8b6c-4e8c-bc51-8f0dffc33edf",
+            "fieldPath": "/attributes/@evver",
+            "rank": "zzzzzzzw"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@crmname": {
+            "id": "/attributes/@crmname",
+            "fieldPath": "/attributes/@crmname",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@crmemail": {
+            "id": "/attributes/@crmemail",
+            "fieldPath": "/attributes/@crmemail",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@crmphone": {
+            "id": "/attributes/@crmphone",
+            "fieldPath": "/attributes/@crmphone",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@crmcompany": {
+            "id": "/attributes/@crmcompany",
+            "fieldPath": "/attributes/@crmcompany",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@crmeventdate": {
+            "id": "/attributes/@crmeventdate",
+            "fieldPath": "/attributes/@crmeventdate",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@crmlocation": {
+            "id": "/attributes/@crmlocation",
+            "fieldPath": "/attributes/@crmlocation",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@crmparticipants": {
+            "id": "/attributes/@crmparticipants",
+            "fieldPath": "/attributes/@crmparticipants",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@crmeventtype": {
+            "id": "/attributes/@crmeventtype",
+            "fieldPath": "/attributes/@crmeventtype",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@crmobjective": {
+            "id": "/attributes/@crmobjective",
+            "fieldPath": "/attributes/@crmobjective",
+            "rank": "zzk",
+            "hidden": false
+          },
+          "/attributes/@crmstatus": {
+            "id": "/attributes/@crmstatus",
+            "fieldPath": "/attributes/@crmstatus",
+            "rank": "zzs",
+            "hidden": false
+          },
+          "/attributes/@crmsource": {
+            "id": "/attributes/@crmsource",
+            "fieldPath": "/attributes/@crmsource",
+            "rank": "zzw",
+            "hidden": false
+          },
+          "/attributes/@crmsubmitted": {
+            "id": "/attributes/@crmsubmitted",
+            "fieldPath": "/attributes/@crmsubmitted",
+            "rank": "zzy",
+            "hidden": false
+          },
+          "0c6ad092-cc47-4e00-8798-685902b7f272": {
+            "id": "0c6ad092-cc47-4e00-8798-685902b7f272",
+            "fieldPath": "/attributes/@05e05",
+            "rank": "zzz"
+          },
+          "325fb880-3cf9-4a08-b7a5-73d906978f5a": {
+            "id": "325fb880-3cf9-4a08-b7a5-73d906978f5a",
+            "fieldPath": "/attributes/@c8470",
+            "rank": "zzzV"
+          },
+          "439b9a23-2c92-48eb-8dea-10cdc4b6a60b": {
+            "id": "439b9a23-2c92-48eb-8dea-10cdc4b6a60b",
+            "fieldPath": "/attributes/@cCa01",
+            "rank": "zzzk"
+          },
+          "29f93fd2-9a4c-40aa-b34f-7c2c2af3b204": {
+            "id": "29f93fd2-9a4c-40aa-b34f-7c2c2af3b204",
+            "fieldPath": "/attributes/@cCd01",
+            "rank": "zzzs"
+          },
+          "ca47b986-a074-4e64-bee4-89ef8820559b": {
+            "id": "ca47b986-a074-4e64-bee4-89ef8820559b",
+            "fieldPath": "/attributes/@cCp01",
+            "rank": "zzzw"
+          },
+          "63304433-8193-47ef-8b84-ed97af0e63a0": {
+            "id": "63304433-8193-47ef-8b84-ed97af0e63a0",
+            "fieldPath": "/attributes/@cCs01",
+            "rank": "zzzy"
+          },
+          "778f543c-6c94-4b1e-a644-d01094b591b8": {
+            "id": "778f543c-6c94-4b1e-a644-d01094b591b8",
+            "fieldPath": "/attributes/@cCs02",
+            "rank": "zzzz"
+          },
+          "aa05a9e6-4793-4601-acf0-c6db322e42e6": {
+            "id": "aa05a9e6-4793-4601-acf0-c6db322e42e6",
+            "fieldPath": "/attributes/@cCg01",
+            "rank": "zzzzV"
+          },
+          "9eb10a32-9c99-40d6-bd2e-bac9fb135776": {
+            "id": "9eb10a32-9c99-40d6-bd2e-bac9fb135776",
+            "fieldPath": "/attributes/@epr01",
+            "rank": "zzzzk"
+          },
+          "c1ef8e92-32e1-4a31-ab65-bd334417f9e1": {
+            "id": "c1ef8e92-32e1-4a31-ab65-bd334417f9e1",
+            "fieldPath": "/attributes/@en0me",
+            "rank": "zzzzs"
+          },
+          "a4c4f4ec-0c32-483e-985c-c8d35bf8ab62": {
+            "id": "a4c4f4ec-0c32-483e-985c-c8d35bf8ab62",
+            "fieldPath": "/attributes/@evsln",
+            "rank": "zzzzw"
+          },
+          "a9295d9e-e33b-4b91-ba39-1183ddee4c90": {
+            "id": "a9295d9e-e33b-4b91-ba39-1183ddee4c90",
+            "fieldPath": "/attributes/@evmed",
+            "rank": "zzzzy"
+          },
+          "ebe134a2-c9d6-4fcc-acfd-fa5aef08cf3d": {
+            "id": "ebe134a2-c9d6-4fcc-acfd-fa5aef08cf3d",
+            "fieldPath": "/attributes/@evcap",
+            "rank": "zzzzz"
+          },
+          "fee6a602-2890-43e9-b122-db52c33e774d": {
+            "id": "fee6a602-2890-43e9-b122-db52c33e774d",
+            "fieldPath": "/attributes/@evfup",
+            "rank": "zzzzzV"
+          },
+          "f18b422d-9b30-4d27-908f-e0c722cce7b3": {
+            "id": "f18b422d-9b30-4d27-908f-e0c722cce7b3",
+            "fieldPath": "/attributes/@evnot",
+            "rank": "zzzzzk"
+          },
+          "e44cfa1c-7e70-426c-84a1-9752325735f8": {
+            "id": "e44cfa1c-7e70-426c-84a1-9752325735f8",
+            "fieldPath": "/attributes/@evsen",
+            "rank": "zzzzzs"
+          },
+          "f7f3f7c7-bd76-44a0-aff3-c7237b62aadd": {
+            "id": "f7f3f7c7-bd76-44a0-aff3-c7237b62aadd",
+            "fieldPath": "/attributes/@evsrv",
+            "rank": "zzzzzw"
+          },
+          "533c0227-fb60-449e-a7d9-e43d6b2c4ec7": {
+            "id": "533c0227-fb60-449e-a7d9-e43d6b2c4ec7",
+            "fieldPath": "/attributes/@evval",
+            "rank": "zzzzzy"
+          },
+          "5555862b-c261-4076-abd3-2cc6b4b3f41a": {
+            "id": "5555862b-c261-4076-abd3-2cc6b4b3f41a",
+            "fieldPath": "/attributes/@evdis",
+            "rank": "zzzzzz"
+          },
+          "ff778e53-c87b-4a63-b017-ea89918965a1": {
+            "id": "ff778e53-c87b-4a63-b017-ea89918965a1",
+            "fieldPath": "/attributes/@evvat",
+            "rank": "zzzzzzV"
+          },
+          "68975a18-20c3-42db-81db-b532304a913a": {
+            "id": "68975a18-20c3-42db-81db-b532304a913a",
+            "fieldPath": "/attributes/@evtot",
+            "rank": "zzzzzzk"
+          },
+          "804cef4f-1a57-4818-af10-6fd260a3dc1f": {
+            "id": "804cef4f-1a57-4818-af10-6fd260a3dc1f",
+            "fieldPath": "/attributes/@evqst",
+            "rank": "zzzzzzs"
+          },
+          "69aeb900-1f2a-4570-be90-513657c0ba5a": {
+            "id": "69aeb900-1f2a-4570-be90-513657c0ba5a",
+            "fieldPath": "/attributes/@evqnt",
+            "rank": "zzzzzzw"
+          },
+          "6030471a-b16b-48ee-92a3-d5ea096ec3a5": {
+            "id": "6030471a-b16b-48ee-92a3-d5ea096ec3a5",
+            "fieldPath": "/attributes/@evexp",
+            "rank": "zzzzzzy"
+          },
+          "30bf3998-a3c6-4cdd-abe0-8c028177d236": {
+            "id": "30bf3998-a3c6-4cdd-abe0-8c028177d236",
+            "fieldPath": "/attributes/@evdty",
+            "rank": "zzzzzzz"
+          },
+          "fef2ca21-f638-46c7-a8d5-15505b32b2e5": {
+            "id": "fef2ca21-f638-46c7-a8d5-15505b32b2e5",
+            "fieldPath": "/attributes/@evpct",
+            "rank": "zzzzzzzV"
+          },
+          "a6200cff-0cb8-4c7e-81ec-12940b37f779": {
+            "id": "a6200cff-0cb8-4c7e-81ec-12940b37f779",
+            "fieldPath": "/attributes/@evtrm",
+            "rank": "zzzzzzzk"
+          },
+          "c21e88c1-fcb3-4590-9c4c-4c8eafdb3519": {
+            "id": "c21e88c1-fcb3-4590-9c4c-4c8eafdb3519",
+            "fieldPath": "/attributes/@evgrp",
+            "rank": "zzzzzzzs"
+          },
+          "c64ad0fd-31b2-4cde-a4f4-8fba393f322a": {
+            "id": "c64ad0fd-31b2-4cde-a4f4-8fba393f322a",
+            "fieldPath": "/attributes/@evver",
+            "rank": "zzzzzzzw"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@crmname": {
+            "id": "/attributes/@crmname",
+            "fieldPath": "/attributes/@crmname",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@crmemail": {
+            "id": "/attributes/@crmemail",
+            "fieldPath": "/attributes/@crmemail",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@crmphone": {
+            "id": "/attributes/@crmphone",
+            "fieldPath": "/attributes/@crmphone",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@crmcompany": {
+            "id": "/attributes/@crmcompany",
+            "fieldPath": "/attributes/@crmcompany",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@crmeventdate": {
+            "id": "/attributes/@crmeventdate",
+            "fieldPath": "/attributes/@crmeventdate",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@crmlocation": {
+            "id": "/attributes/@crmlocation",
+            "fieldPath": "/attributes/@crmlocation",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@crmparticipants": {
+            "id": "/attributes/@crmparticipants",
+            "fieldPath": "/attributes/@crmparticipants",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@crmeventtype": {
+            "id": "/attributes/@crmeventtype",
+            "fieldPath": "/attributes/@crmeventtype",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@crmobjective": {
+            "id": "/attributes/@crmobjective",
+            "fieldPath": "/attributes/@crmobjective",
+            "rank": "zzk",
+            "hidden": false
+          },
+          "/attributes/@crmstatus": {
+            "id": "/attributes/@crmstatus",
+            "fieldPath": "/attributes/@crmstatus",
+            "rank": "zzs",
+            "hidden": false
+          },
+          "/attributes/@crmsource": {
+            "id": "/attributes/@crmsource",
+            "fieldPath": "/attributes/@crmsource",
+            "rank": "zzw",
+            "hidden": false
+          },
+          "/attributes/@crmsubmitted": {
+            "id": "/attributes/@crmsubmitted",
+            "fieldPath": "/attributes/@crmsubmitted",
+            "rank": "zzy",
+            "hidden": false
+          },
+          "21f51ea9-fc81-406e-8519-9cc91cfbb610": {
+            "id": "21f51ea9-fc81-406e-8519-9cc91cfbb610",
+            "fieldPath": "/attributes/@05e05",
+            "rank": "zzz"
+          },
+          "2e1188d0-6141-499d-9fb1-7b84c9e810f1": {
+            "id": "2e1188d0-6141-499d-9fb1-7b84c9e810f1",
+            "fieldPath": "/attributes/@c8470",
+            "rank": "zzzV"
+          },
+          "374b7502-260e-4a49-b8d9-2b9dee2a6f4a": {
+            "id": "374b7502-260e-4a49-b8d9-2b9dee2a6f4a",
+            "fieldPath": "/attributes/@cCa01",
+            "rank": "zzzk"
+          },
+          "58d39896-526f-4e05-8a3a-9f50fb92a792": {
+            "id": "58d39896-526f-4e05-8a3a-9f50fb92a792",
+            "fieldPath": "/attributes/@cCd01",
+            "rank": "zzzs"
+          },
+          "91d7f241-172a-408f-8fc2-a95556eb37ff": {
+            "id": "91d7f241-172a-408f-8fc2-a95556eb37ff",
+            "fieldPath": "/attributes/@cCp01",
+            "rank": "zzzw"
+          },
+          "8007ada9-3d9a-4752-a437-9d34703443a7": {
+            "id": "8007ada9-3d9a-4752-a437-9d34703443a7",
+            "fieldPath": "/attributes/@cCs01",
+            "rank": "zzzy"
+          },
+          "f77a04db-a4ef-4bc6-90f5-15389b2a77f9": {
+            "id": "f77a04db-a4ef-4bc6-90f5-15389b2a77f9",
+            "fieldPath": "/attributes/@cCs02",
+            "rank": "zzzz"
+          },
+          "7e986aeb-e442-4da7-9ca9-a66661a818eb": {
+            "id": "7e986aeb-e442-4da7-9ca9-a66661a818eb",
+            "fieldPath": "/attributes/@cCg01",
+            "rank": "zzzzV"
+          },
+          "fdd2d447-456d-4198-862f-abc92221b351": {
+            "id": "fdd2d447-456d-4198-862f-abc92221b351",
+            "fieldPath": "/attributes/@epr01",
+            "rank": "zzzzk"
+          },
+          "f5371d35-37a4-43fa-ab90-57e3fe26d3f2": {
+            "id": "f5371d35-37a4-43fa-ab90-57e3fe26d3f2",
+            "fieldPath": "/attributes/@en0me",
+            "rank": "zzzzs"
+          },
+          "9eb52dcd-b324-40fb-bc70-f8754d2a2aea": {
+            "id": "9eb52dcd-b324-40fb-bc70-f8754d2a2aea",
+            "fieldPath": "/attributes/@evsln",
+            "rank": "zzzzw"
+          },
+          "de70e821-b850-4a71-9d6c-19da08556061": {
+            "id": "de70e821-b850-4a71-9d6c-19da08556061",
+            "fieldPath": "/attributes/@evmed",
+            "rank": "zzzzy"
+          },
+          "7698466a-58c9-4f9d-be3b-3f8a7c9bdfbf": {
+            "id": "7698466a-58c9-4f9d-be3b-3f8a7c9bdfbf",
+            "fieldPath": "/attributes/@evcap",
+            "rank": "zzzzz"
+          },
+          "59be34e6-b424-4079-8fa1-a3ed375b9437": {
+            "id": "59be34e6-b424-4079-8fa1-a3ed375b9437",
+            "fieldPath": "/attributes/@evfup",
+            "rank": "zzzzzV"
+          },
+          "52213e49-b42f-4086-ab2d-631f7519c245": {
+            "id": "52213e49-b42f-4086-ab2d-631f7519c245",
+            "fieldPath": "/attributes/@evnot",
+            "rank": "zzzzzk"
+          },
+          "90fc5340-6139-4b80-bd92-63d93a6893f0": {
+            "id": "90fc5340-6139-4b80-bd92-63d93a6893f0",
+            "fieldPath": "/attributes/@evsen",
+            "rank": "zzzzzs"
+          },
+          "f5b991aa-684a-435c-9f41-33d89b1d6311": {
+            "id": "f5b991aa-684a-435c-9f41-33d89b1d6311",
+            "fieldPath": "/attributes/@evsrv",
+            "rank": "zzzzzw"
+          },
+          "be0a1ae8-fd91-4fa2-a110-a1f06d3d2975": {
+            "id": "be0a1ae8-fd91-4fa2-a110-a1f06d3d2975",
+            "fieldPath": "/attributes/@evval",
+            "rank": "zzzzzy"
+          },
+          "2b9e2232-b279-42be-a669-f37194518b1b": {
+            "id": "2b9e2232-b279-42be-a669-f37194518b1b",
+            "fieldPath": "/attributes/@evdis",
+            "rank": "zzzzzz"
+          },
+          "d8c86330-b9a5-48e6-b8ad-79dd37f17006": {
+            "id": "d8c86330-b9a5-48e6-b8ad-79dd37f17006",
+            "fieldPath": "/attributes/@evvat",
+            "rank": "zzzzzzV"
+          },
+          "49a9101c-1007-46a7-a763-9cf7bfa514e7": {
+            "id": "49a9101c-1007-46a7-a763-9cf7bfa514e7",
+            "fieldPath": "/attributes/@evtot",
+            "rank": "zzzzzzk"
+          },
+          "e1c0f055-1cd3-40a6-9346-f396369118fe": {
+            "id": "e1c0f055-1cd3-40a6-9346-f396369118fe",
+            "fieldPath": "/attributes/@evqst",
+            "rank": "zzzzzzs"
+          },
+          "3cd8d39a-0f7f-44d6-a78f-be3564b2d1eb": {
+            "id": "3cd8d39a-0f7f-44d6-a78f-be3564b2d1eb",
+            "fieldPath": "/attributes/@evqnt",
+            "rank": "zzzzzzw"
+          },
+          "6984f6fc-5974-4495-8c3b-9d95e7396994": {
+            "id": "6984f6fc-5974-4495-8c3b-9d95e7396994",
+            "fieldPath": "/attributes/@evexp",
+            "rank": "zzzzzzy"
+          },
+          "c88fffbc-0cf8-43bd-9470-003c8c782641": {
+            "id": "c88fffbc-0cf8-43bd-9470-003c8c782641",
+            "fieldPath": "/attributes/@evdty",
+            "rank": "zzzzzzz"
+          },
+          "e0cf229a-289e-460b-9a89-b7914cdd394f": {
+            "id": "e0cf229a-289e-460b-9a89-b7914cdd394f",
+            "fieldPath": "/attributes/@evpct",
+            "rank": "zzzzzzzV"
+          },
+          "6455da78-0d1b-475f-a527-8a731e94891d": {
+            "id": "6455da78-0d1b-475f-a527-8a731e94891d",
+            "fieldPath": "/attributes/@evtrm",
+            "rank": "zzzzzzzk"
+          },
+          "dc21cfb7-3ef1-47b1-b492-53d55cde1fac": {
+            "id": "dc21cfb7-3ef1-47b1-b492-53d55cde1fac",
+            "fieldPath": "/attributes/@evgrp",
+            "rank": "zzzzzzzs"
+          },
+          "d4711d71-3ffe-4496-a08a-c1ad7298d947": {
+            "id": "d4711d71-3ffe-4496-a08a-c1ad7298d947",
+            "fieldPath": "/attributes/@evver",
+            "rank": "zzzzzzzw"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "d3036c9b-5ca9-4236-a931-b14a3bd3e9f6": {
+            "id": "d3036c9b-5ca9-4236-a931-b14a3bd3e9f6",
+            "fieldPath": "/attributes/@05e05",
+            "rank": "z"
+          },
+          "2faa0be1-f1d5-4f02-a6da-9301a42a2e79": {
+            "id": "2faa0be1-f1d5-4f02-a6da-9301a42a2e79",
+            "fieldPath": "/attributes/@c8470",
+            "rank": "zV"
+          },
+          "f54e4768-8f47-428f-b24b-472caed62a6a": {
+            "id": "f54e4768-8f47-428f-b24b-472caed62a6a",
+            "fieldPath": "/attributes/@cCa01",
+            "rank": "zk"
+          },
+          "b2fc8cfa-992e-4ae3-a07a-bbc734bc82ba": {
+            "id": "b2fc8cfa-992e-4ae3-a07a-bbc734bc82ba",
+            "fieldPath": "/attributes/@cCd01",
+            "rank": "zs"
+          },
+          "7a944082-762c-4468-829f-400df5c9c2c0": {
+            "id": "7a944082-762c-4468-829f-400df5c9c2c0",
+            "fieldPath": "/attributes/@cCp01",
+            "rank": "zw"
+          },
+          "49c48a1a-5b21-40fd-a638-727e178e4403": {
+            "id": "49c48a1a-5b21-40fd-a638-727e178e4403",
+            "fieldPath": "/attributes/@cCs01",
+            "rank": "zy"
+          },
+          "3145d6f9-6aae-4f76-a0c8-0e00a1387186": {
+            "id": "3145d6f9-6aae-4f76-a0c8-0e00a1387186",
+            "fieldPath": "/attributes/@cCs02",
+            "rank": "zz"
+          },
+          "c6cc14cc-2b5d-42c8-a509-b66dc4911fbb": {
+            "id": "c6cc14cc-2b5d-42c8-a509-b66dc4911fbb",
+            "fieldPath": "/attributes/@cCg01",
+            "rank": "zzV"
+          },
+          "cc2bf17b-a8d6-45d6-b359-71eff5392829": {
+            "id": "cc2bf17b-a8d6-45d6-b359-71eff5392829",
+            "fieldPath": "/attributes/@epr01",
+            "rank": "zzk"
+          },
+          "d6ed485b-c058-409d-9ecb-5dd38452f2df": {
+            "id": "d6ed485b-c058-409d-9ecb-5dd38452f2df",
+            "fieldPath": "/attributes/@en0me",
+            "rank": "zzs"
+          },
+          "7c44d5eb-f54e-48d2-a7b7-3bc8d10cfee0": {
+            "id": "7c44d5eb-f54e-48d2-a7b7-3bc8d10cfee0",
+            "fieldPath": "/attributes/@evsln",
+            "rank": "zzw"
+          },
+          "0bbdd4a1-991f-4a6f-8f1c-87f6c640ca16": {
+            "id": "0bbdd4a1-991f-4a6f-8f1c-87f6c640ca16",
+            "fieldPath": "/attributes/@evmed",
+            "rank": "zzy"
+          },
+          "865d7907-27c2-4183-aaa8-3b055cf125da": {
+            "id": "865d7907-27c2-4183-aaa8-3b055cf125da",
+            "fieldPath": "/attributes/@evcap",
+            "rank": "zzz"
+          },
+          "81d731bc-30b7-4d95-af3e-0b64d0a91195": {
+            "id": "81d731bc-30b7-4d95-af3e-0b64d0a91195",
+            "fieldPath": "/attributes/@evfup",
+            "rank": "zzzV"
+          },
+          "8ec5646e-4cc1-4334-9959-d732bfe82801": {
+            "id": "8ec5646e-4cc1-4334-9959-d732bfe82801",
+            "fieldPath": "/attributes/@evnot",
+            "rank": "zzzk"
+          },
+          "058b96ef-f4fe-45bf-8edf-0b4e8fbfd555": {
+            "id": "058b96ef-f4fe-45bf-8edf-0b4e8fbfd555",
+            "fieldPath": "/attributes/@evsen",
+            "rank": "zzzs"
+          },
+          "dc7e4896-c377-4d60-bcf4-31ead04e386b": {
+            "id": "dc7e4896-c377-4d60-bcf4-31ead04e386b",
+            "fieldPath": "/attributes/@evsrv",
+            "rank": "zzzw"
+          },
+          "f655cd75-29e0-43a7-8174-da53a0ea0c96": {
+            "id": "f655cd75-29e0-43a7-8174-da53a0ea0c96",
+            "fieldPath": "/attributes/@evval",
+            "rank": "zzzy"
+          },
+          "5ae565f3-4b16-44cd-a928-a5f45febf133": {
+            "id": "5ae565f3-4b16-44cd-a928-a5f45febf133",
+            "fieldPath": "/attributes/@evdis",
+            "rank": "zzzz"
+          },
+          "d63fb0ca-86cf-4147-bfeb-205446ef6b88": {
+            "id": "d63fb0ca-86cf-4147-bfeb-205446ef6b88",
+            "fieldPath": "/attributes/@evvat",
+            "rank": "zzzzV"
+          },
+          "e5adb525-cbbc-45e9-9bfd-08d5e667476c": {
+            "id": "e5adb525-cbbc-45e9-9bfd-08d5e667476c",
+            "fieldPath": "/attributes/@evtot",
+            "rank": "zzzzk"
+          },
+          "bb9d846f-5415-4ee4-9620-7938652b6d27": {
+            "id": "bb9d846f-5415-4ee4-9620-7938652b6d27",
+            "fieldPath": "/attributes/@evqst",
+            "rank": "zzzzs"
+          },
+          "3487cf48-0b6a-4b13-9932-cceb62cfc3c9": {
+            "id": "3487cf48-0b6a-4b13-9932-cceb62cfc3c9",
+            "fieldPath": "/attributes/@evqnt",
+            "rank": "zzzzw"
+          },
+          "d41aacb1-b781-4698-917d-750bd0adfd10": {
+            "id": "d41aacb1-b781-4698-917d-750bd0adfd10",
+            "fieldPath": "/attributes/@evexp",
+            "rank": "zzzzy"
+          },
+          "eeee5df4-60a4-4e6a-880e-c1c00127c59a": {
+            "id": "eeee5df4-60a4-4e6a-880e-c1c00127c59a",
+            "fieldPath": "/attributes/@evdty",
+            "rank": "zzzzz"
+          },
+          "011ab27a-9056-4005-bbc7-56fa2b3db967": {
+            "id": "011ab27a-9056-4005-bbc7-56fa2b3db967",
+            "fieldPath": "/attributes/@evpct",
+            "rank": "zzzzzV"
+          },
+          "774ed8ec-2c86-474f-8dc1-5d3ab32ea96e": {
+            "id": "774ed8ec-2c86-474f-8dc1-5d3ab32ea96e",
+            "fieldPath": "/attributes/@evtrm",
+            "rank": "zzzzzk"
+          },
+          "9ff6e09b-7476-40cf-bf59-21dff1a8bf6c": {
+            "id": "9ff6e09b-7476-40cf-bf59-21dff1a8bf6c",
+            "fieldPath": "/attributes/@evgrp",
+            "rank": "zzzzzs"
+          },
+          "f24659e2-9221-4308-967a-f14ccc401313": {
+            "id": "f24659e2-9221-4308-967a-f14ccc401313",
+            "fieldPath": "/attributes/@evver",
+            "rank": "zzzzzw"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@evqst": {
+        "type": "Select",
+        "displayName": "Status ofertă",
+        "options": {
+          "in_lucru": {
+            "id": "in_lucru",
+            "name": "În lucru",
+            "color": "#F5A623",
+            "rank": "0"
+          },
+          "transmisa": {
+            "id": "transmisa",
+            "name": "Transmisă",
+            "color": "#4A90D9",
+            "rank": "1"
+          },
+          "acceptata": {
+            "id": "acceptata",
+            "name": "Acceptată",
+            "color": "#2E9D68",
+            "rank": "2"
+          },
+          "refuzata": {
+            "id": "refuzata",
+            "name": "Refuzată",
+            "color": "#D9534F",
+            "rank": "3"
+          },
+          "expirata": {
+            "id": "expirata",
+            "name": "Expirată",
+            "color": "#7A7A7A",
+            "rank": "4"
+          }
+        }
+      },
+      "@evcap": {
+        "type": "number",
+        "displayName": "Capacitate locație",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@evnot": {
+        "type": "string",
+        "displayName": "Notițe client"
+      },
+      "@cCa01": {
+        "type": "Select",
+        "displayName": "Acțiune Command Center",
+        "options": {
+          "call": {
+            "id": "call",
+            "name": "De sunat",
+            "color": "#D9534F",
+            "rank": "0"
+          },
+          "offer": {
+            "id": "offer",
+            "name": "De ofertat",
+            "color": "#F5A623",
+            "rank": "1"
+          },
+          "follow_up": {
+            "id": "follow_up",
+            "name": "Follow-up",
+            "color": "#4A90D9",
+            "rank": "2"
+          }
+        }
+      },
+      "@evsln": {
+        "type": "string",
+        "displayName": "Salon / restaurant"
+      },
+      "@05e05": {
+        "type": "DateTime",
+        "title": "Ultima interacțiune"
+      },
+      "@cCd01": {
+        "type": "DateTime",
+        "title": "Termen Command Center"
+      },
+      "@evqnt": {
+        "type": "string",
+        "displayName": "Notițe ofertă"
+      },
+      "@evsrv": {
+        "type": "string",
+        "displayName": "Servicii selectate"
+      },
+      "@cCg01": {
+        "type": "DateTime",
+        "title": "Generat la"
+      },
+      "@epr01": {
+        "type": "string",
+        "displayName": "Prenume"
+      },
+      "@evtot": {
+        "type": "number",
+        "displayName": "Total ofertă",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@crmname": {
+        "type": "string",
+        "displayName": "Nume contact"
+      },
+      "@crmeventdate": {
+        "type": "DateTime",
+        "title": "Data evenimentului"
+      },
+      "@evsen": {
+        "type": "DateTime",
+        "title": "Data trimiterii ofertei"
+      },
+      "@evexp": {
+        "type": "DateTime",
+        "title": "Valabilă până la data"
+      },
+      "@evval": {
+        "type": "number",
+        "displayName": "Valoare ofertă",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@evpct": {
+        "type": "number",
+        "displayName": "Procent discount",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@crmphone": {
+        "type": "string",
+        "displayName": "Telefon"
+      },
+      "@evfup": {
+        "type": "DateTime",
+        "title": "Următorul follow-up"
+      },
+      "@crmstatus": {
+        "type": "Select",
+        "displayName": "Status",
+        "options": {
+          "nou": {
+            "id": "nou",
+            "name": "Nou",
+            "color": "#8C8C8C",
+            "rank": "0"
+          },
+          "contactat": {
+            "id": "contactat",
+            "name": "Contactat",
+            "color": "#F5A623",
+            "rank": "1"
+          },
+          "se_califica": {
+            "id": "se_califica",
+            "name": "Se califică",
+            "color": "#2E9D68",
+            "rank": "2"
+          },
+          "ofertat": {
+            "id": "ofertat",
+            "name": "Ofertat",
+            "color": "#4A90D9",
+            "rank": "3"
+          },
+          "castigat": {
+            "id": "castigat",
+            "name": "Câștigat",
+            "color": "#247A4B",
+            "rank": "4"
+          },
+          "pierdut": {
+            "id": "pierdut",
+            "name": "Pierdut",
+            "color": "#2B2B2B",
+            "rank": "5"
+          }
+        }
+      },
+      "@cCp01": {
+        "type": "Select",
+        "displayName": "Prioritate Command Center",
+        "options": {
+          "urgent": {
+            "id": "urgent",
+            "name": "Urgent",
+            "color": "#D9534F",
+            "rank": "0"
+          },
+          "important": {
+            "id": "important",
+            "name": "Important",
+            "color": "#F5A623",
+            "rank": "1"
+          },
+          "normal": {
+            "id": "normal",
+            "name": "Normal",
+            "color": "#2E9D68",
+            "rank": "2"
+          }
+        }
+      },
+      "@evver": {
+        "type": "number",
+        "displayName": "Versiune ofertă",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@crmlocation": {
+        "type": "string",
+        "displayName": "Locație"
+      },
+      "@cCs01": {
+        "type": "Select",
+        "displayName": "Status task Command Center",
+        "options": {
+          "todo": {
+            "id": "todo",
+            "name": "De făcut",
+            "color": "#7A7A7A",
+            "rank": "0"
+          },
+          "in_progress": {
+            "id": "in_progress",
+            "name": "În lucru",
+            "color": "#4A90D9",
+            "rank": "1"
+          },
+          "done": {
+            "id": "done",
+            "name": "Finalizat",
+            "color": "#2E9D68",
+            "rank": "2"
+          },
+          "failed": {
+            "id": "failed",
+            "name": "Nu s-a putut realiza",
+            "color": "#D9534F",
+            "rank": "3"
+          }
+        }
+      },
+      "@evgrp": {
+        "type": "string",
+        "displayName": "Grup versiuni ofertă"
+      },
+      "@cCs02": {
+        "type": "string",
+        "displayName": "Status lead la generare"
+      },
+      "@crmeventtype": {
+        "type": "Select",
+        "displayName": "Tip eveniment",
+        "options": {
+          "conferinta": {
+            "id": "conferinta",
+            "name": "Conferință",
+            "color": "#4A90D9",
+            "rank": "0"
+          },
+          "gala": {
+            "id": "gala",
+            "name": "Gală",
+            "color": "#7B61FF",
+            "rank": "1"
+          },
+          "lansare": {
+            "id": "lansare",
+            "name": "Lansare",
+            "color": "#F5A623",
+            "rank": "2"
+          },
+          "petrecere": {
+            "id": "petrecere",
+            "name": "Petrecere privată",
+            "color": "#E95D8B",
+            "rank": "3"
+          },
+          "altul": {
+            "id": "altul",
+            "name": "Alt tip",
+            "color": "#7A7A7A",
+            "rank": "4"
+          }
+        }
+      },
+      "@evvat": {
+        "type": "number",
+        "displayName": "TVA (%)",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "unit",
+          "config": {
+            "type": "standard",
+            "unit": "percent"
+          }
+        }
+      },
+      "@c8470": {
+        "type": "string",
+        "displayName": "Persoana responsabilă"
+      },
+      "@evdty": {
+        "type": "Select",
+        "displayName": "Tip discount",
+        "options": {
+          "fix": {
+            "id": "fix",
+            "name": "Fix",
+            "color": "#D6533C",
+            "rank": "0"
+          },
+          "percent": {
+            "id": "percent",
+            "name": "Procentual",
+            "color": "#3D8E78",
+            "rank": "1"
+          }
+        }
+      },
+      "@crmsource": {
+        "type": "string",
+        "displayName": "Sursă"
+      },
+      "@crmobjective": {
+        "type": "string",
+        "displayName": "Ce vrei să obții"
+      },
+      "@evmed": {
+        "type": "Select",
+        "displayName": "Interior / exterior / mix",
+        "options": {
+          "interior": {
+            "id": "interior",
+            "name": "Interior",
+            "color": "#7B61FF",
+            "rank": "0"
+          },
+          "exterior": {
+            "id": "exterior",
+            "name": "Exterior",
+            "color": "#2E9D68",
+            "rank": "1"
+          },
+          "mix": {
+            "id": "mix",
+            "name": "Mix",
+            "color": "#4A90D9",
+            "rank": "2"
+          }
+        }
+      },
+      "@crmsubmitted": {
+        "type": "DateTime",
+        "title": "Trimis la"
+      },
+      "@evdis": {
+        "type": "number",
+        "displayName": "Discount",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@crmparticipants": {
+        "type": "number",
+        "displayName": "Participanți",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@crmemail": {
+        "type": "string",
+        "displayName": "Email"
+      },
+      "@evtrm": {
+        "type": "string",
+        "displayName": "Condiții comerciale"
+      },
+      "@en0me": {
+        "type": "string",
+        "displayName": "Nume"
+      },
+      "@crmcompany": {
+        "type": "string",
+        "displayName": "Companie"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📄"
+    },
+    "coverImageType": "banner",
+    "background": {
+      "data": {
+        "value": "bg-color-62"
+      },
+      "type": "default"
+    }
+  },
+  "pinnedAt": "2026-10-19T16:55:34.224Z"
+}

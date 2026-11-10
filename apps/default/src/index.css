@@ -1,0 +1,150 @@
+/* SCENOTEHNIC editorial control room: warm ivory surfaces, charcoal type, one coral cue for action and live modules. */
+/* Tailwind CSS v3 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Pair the UA color-scheme with the theme so native scrollbars, form
+       controls, and the canvas match. Without this a dark-themed app paints
+       light native scrollbars (visible when embedded on dark surfaces). */
+    --genesis-default-theme: light;
+    color-scheme: light;
+    --background: 38 33% 94%;
+    --foreground: 24 14% 10%;
+    --muted: 38 22% 88%;
+    --muted-foreground: 24 8% 40%;
+    --popover: 38 35% 97%;
+    --popover-foreground: 24 14% 10%;
+    --border: 28 13% 80%;
+    --input: 28 13% 78%;
+    --card: 38 36% 97%;
+    --card-foreground: 24 14% 10%;
+    --primary: 7 72% 55%;
+    --primary-foreground: 38 35% 97%;
+    --secondary: 30 14% 88%;
+    --secondary-foreground: 24 14% 12%;
+    --accent: 8 55% 92%;
+    --accent-foreground: 7 65% 36%;
+    --destructive: 0 70% 44%;
+    --destructive-foreground: 0 0% 98%;
+    --ring: 7 72% 55%;
+    --radius: 0.75rem;
+    --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --chart-1: 7 72% 55%;
+    --chart-2: 24 14% 18%;
+    --chart-3: 28 13% 55%;
+    --chart-4: 34 42% 46%;
+    --chart-5: 42 64% 50%;
+  }
+
+  .dark {
+    color-scheme: dark;
+    --background: 24 14% 8%;
+    --foreground: 38 35% 94%;
+    --muted: 24 12% 14%;
+    --muted-foreground: 30 10% 65%;
+    --accent: 7 35% 16%;
+    --accent-foreground: 7 80% 72%;
+    --popover: 24 14% 10%;
+    --popover-foreground: 38 35% 94%;
+    --border: 24 12% 20%;
+    --input: 24 12% 22%;
+    --card: 24 13% 11%;
+    --card-foreground: 38 35% 94%;
+    --primary: 7 78% 63%;
+    --primary-foreground: 24 14% 8%;
+    --secondary: 24 12% 17%;
+    --secondary-foreground: 38 30% 92%;
+    --destructive: 0 58% 38%;
+    --destructive-foreground: 0 0% 97%;
+    --ring: 7 78% 63%;
+    --chart-1: 7 78% 63%;
+    --chart-2: 38 30% 85%;
+    --chart-3: 30 10% 58%;
+    --chart-4: 34 42% 55%;
+    --chart-5: 42 70% 58%;
+  }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+:root {
+  --sidebar: hsl(0 0% 95%);
+  --sidebar-foreground: hsl(0 0% 22%);
+  --sidebar-primary: hsl(80 61% 29%);
+  --sidebar-primary-foreground: hsl(80 28% 96%);
+  --sidebar-accent: hsl(80 42% 90%);
+  --sidebar-accent-foreground: hsl(80 62% 20%);
+  --sidebar-border: hsl(0 0% 84%);
+  --sidebar-ring: hsl(80 55% 33%);
+}
+
+.dark {
+  --sidebar: hsl(0 0% 9%);
+  --sidebar-foreground: hsl(0 0% 84%);
+  --sidebar-primary: hsl(80 63% 54%);
+  --sidebar-primary-foreground: hsl(80 65% 10%);
+  --sidebar-accent: hsl(80 32% 15%);
+  --sidebar-accent-foreground: hsl(80 68% 62%);
+  --sidebar-border: hsl(0 0% 18%);
+  --sidebar-ring: hsl(80 58% 48%);
+}
+
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Full screen spinner styles */
+.genesis__spinner-container {
+  position: fixed;
+  inset: 0;
+  background: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.genesis__spinner-ring {
+  width: 20px;
+  height: 20px;
+  border: 1.5px solid transparent;
+  border-top: 1.5px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  animation: genesis__spin 1s linear infinite;
+}
+
+@keyframes genesis__spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .genesis__spinner-ring {
+    animation: none;
+    border-top-color: rgba(255, 255, 255, 0.9);
+  }
+}
